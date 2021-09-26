@@ -23,7 +23,6 @@ model = sys.argv[1]
 tokenizer = tokenizers[sys.argv[1]].from_pretrained(model_name)
 my_device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(my_device)
-# comparison = sys.argv[2]
 chatty = True
 criterion = torch.nn.CrossEntropyLoss()
 batch_size = 4
@@ -40,13 +39,17 @@ def main():
     bert = models[model].from_pretrained(model_name)
     bert.to(my_device)
     print("Retreiving word embeddings for training file: ", trainf)
-    # tr_full_data,tr_emb_data,tr_labels = get_data(trainf,traintype)     # Funing: still need to understand how to adapt the get_data for data prep - seems not much prep is necessary
-    # tr_size = len(tr_full_data)
     data = get_data(trainf)[1:] #strip headers
     output = []
     for entry in data:
         embeds = get_embeddings_rev(entry[0], entry[1], layers=None)
-        output.append([entry[0],entry[1],embeds])
+        print("word {} in sentence {}, embedding shape of {}".format(entry[1],entry[0],embeds.shape))
+        embed_list = embeds.tolist()
+        new_entry = [entry[0],entry[1]]
+        for num in embed_list:
+            new_entry.append(num)
+        print("length of new entry: {}, should be 768 + 2 = 770 columns. ".format(len(new_entry)))
+        output.append(new_entry)
     #with open('{file_path}.csv'.format(file_path=os.path.join(save_path, trainf+"embeds.csv"), 'w+',new_line="") as csv_file:
     with open(trainf+"embeds.csv",'w') as csvf:
         csvwriter = csv.writer(csvf)
@@ -78,6 +81,9 @@ def get_hidden_states(encoded, token_ids_word, model, layers):
  
      # Get all hidden states
      states = output.hidden_states
+     last_hidden_states = states[-1]
+     print("last hidden states shape", last_hidden_states.shape)
+     #print("last hidden states value: ", last_hidden_states)
      # Stack and sum all requested layers
      output = torch.stack([states[i] for i in layers]).sum(0).squeeze()
      # Only select the tokens that constitute the requested word
@@ -99,8 +105,8 @@ def get_word_vector(sent, idx, tokenizer, model, layers):
 def get_embeddings_rev(sent, word, layers=None): #meta-function to retrive contextual embeddings for a given sentence
      # Use last four layers by default
      layers = [-4, -3, -2, -1] if not layers else layers
-     tokenizer = AutoTokenizer.from_pretrained("bert-base-cased") #should change to accomodate more models
-     model = AutoModel.from_pretrained("bert-base-cased", output_hidden_states=True)
+     tokenizer = AutoTokenizer.from_pretrained(model_name) #should change to accomodate more models
+     model = AutoModel.from_pretrained(model_name, output_hidden_states=True)
   
      idx = get_word_idx(sent, word)
      word_embedding = get_word_vector(sent, idx, tokenizer, model, layers)

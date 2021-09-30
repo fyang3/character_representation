@@ -1,0 +1,1167 @@
+cluster_id,obj_or_subj,key_word,argument,dependency,sentence
+1,subj,lived,who,nsubj,the boy who lived
+4,subj,hold,they,nsubj,"they were the last people you 'd expect to be involved in anything strange or mysterious , because they just did n't hold with such nonsense ."
+4,subj,wanted,they,nsubj,"the dursleys had everything they wanted , but they also had a secret , and their greatest fear was that somebody would discover it ."
+4,subj,think,they,nsubj,they did n't think they could bear it if anyone found out about the potters .
+4,subj,whispering,they,nsubj,they were whispering excitedly together .
+6,subj,expect,you,nsubj,"they were the last people you 'd expect to be involved in anything strange or mysterious , because they just did n't hold with such nonsense ."
+7,obj,seen,him,dobj,"the dursleys knew that the potters had a small son , too , but they had never even seen him ."
+7,obj,wrestled,dudley,dobj,"mr. dursley hummed as he picked out his most boring tie for work , and mrs. dursley gossiped away happily as she wrestled a screaming dudley into his high chair ."
+10,obj,blame,her,dobj,"he did n't blame her -- if he 'd had a sister like that ... but all the same , those people in cloaks ..."
+10,subj,told,she,nsubj,she told him over dinner all about mrs. next door 's problems with her daughter and how dudley had learned a new word ( `` wo n't ! `` ) .
+10,subj,went,she,nsubj,"she threw a sharp , sideways glance at dumbledore here , as though hoping he was going to tell her something , but he did n't , so she went on ."
+10,subj,liked,she,nsubj,i have n't blushed so much since madam pomfrey told me she liked my new earmuffs . ''
+10,subj,pulled,mcgonagall,nsubj,professor mcgonagall pulled out a lace handkerchief and dabbed at her eyes beneath her spectacles .
+10,subj,opened,mcgonagall,nsubj,"professor mcgonagall opened her mouth , changed her mind , swallowed , and then said , `` yes -- yes , you 're right , of course ."
+10,subj,eyed,she,nsubj,she eyed his cloak suddenly as though she thought he might be hiding harry underneath it .
+10,subj,thought,she,nsubj,she eyed his cloak suddenly as though she thought he might be hiding harry underneath it .
+10,subj,rapped,aunt,nsubj,his aunt rapped on the door again .
+10,subj,screeched,she,nsubj,she screeched .
+10,subj,walking,her,nsubj,harry heard her walking toward the kitchen and then the sound of the frying pan being put on the stove .
+10,subj,demanded,she,nsubj,she demanded .
+10,subj,snapped,aunt,nsubj,his aunt snapped through the door .
+10,subj,said,harry,nsubj,aunt petunia often said that dudley looked like a baby angel -- harry often said that dudley looked like a pig in a wig .
+10,subj,said,she,nsubj,"aunt petunia obviously scented danger , too , because she said quickly , `` and we 'll buy you another two presents while we 're out today ."
+10,subj,jerked,she,nsubj,she jerked her head in harry 's direction .
+10,subj,swallowed,she,nsubj,aunt petunia looked as though she 'd just swallowed a lemon .
+10,subj,snarled,she,nsubj,she snarled .
+10,subj,cried,she,nsubj,"she cried , flinging her arms around him ."
+10,subj,tried,she,nsubj,"another time , aunt petunia had been trying to force him into a revolting old sweater of dudley 's ( brown with orange puff balls ) -- the harder she tried to pull it over his head , the smaller it seemed to become , until finally it might have fitted a hand puppet , but certainly would n't fit harry ."
+16,subj,discover,somebody,nsubj,"the dursleys had everything they wanted , but they also had a secret , and their greatest fear was that somebody would discover it ."
+17,obj,discover,it,dobj,"the dursleys had everything they wanted , but they also had a secret , and their greatest fear was that somebody would discover it ."
+18,obj,bear,it,dobj,they did n't think they could bear it if anyone found out about the potters .
+19,subj,found,anyone,nsubj,they did n't think they could bear it if anyone found out about the potters .
+22,subj,seen,they,nsubj,"the dursleys knew that the potters had a small son , too , but they had never even seen him ."
+26,obj,say,what,dobj,the dursleys shuddered to think what the neighbors would say if the potters arrived in the street .
+27,subj,say,neighbors,nsubj,the dursleys shuddered to think what the neighbors would say if the potters arrived in the street .
+28,subj,arrived,potters,nsubj,the dursleys shuddered to think what the neighbors would say if the potters arrived in the street .
+28,subj,want,they,nsubj,this boy was another good reason for keeping the potters away ; they did n't want dudley mixing with a child like that .
+30,subj,knew,dursleys,nsubj,"the dursleys knew that the potters had a small son , too , but they had never even seen him ."
+36,subj,happening,things,nsubj,"when mr. and mrs. dursley woke up on the dull , gray tuesday our story starts , there was nothing about the cloudy sky outside to suggest that strange and mysterious things would soon be happening all over the country ."
+39,obj,left,house,dobj,"`` little tyke , '' chortled mr. dursley as he left the house ."
+39,obj,seen,what,dobj,"for a second , mr. dursley did n't realize what he had seen -- then he jerked his head around to look again ."
+39,obj,disturb,him,dobj,"he dashed back across the road , hurried up to his office , snapped at his secretary not to disturb him , seized his telephone , and had almost finished dialing his home number when he changed his mind ."
+39,obj,told,him,dobj,she told him over dinner all about mrs. next door 's problems with her daughter and how dudley had learned a new word ( `` wo n't ! `` ) .
+39,subj,chortled,dursley,nsubj,"`` little tyke , '' chortled mr. dursley as he left the house ."
+39,subj,got,he,nsubj,he got into his car and backed out of number four 's drive .
+39,subj,noticed,he,nsubj,it was on the corner of the street that he noticed the first sign of something peculiar -- a cat reading a map .
+39,subj,thinking,he,nsubj,what could he have been thinking of ?
+39,subj,drove,he,nsubj,as he drove toward town he thought of nothing except a large order of drills he was hoping to get that day .
+39,subj,thought,he,nsubj,as he drove toward town he thought of nothing except a large order of drills he was hoping to get that day .
+39,subj,sat,he,nsubj,"as he sat in the usual morning traffic jam , he could n't help noticing that there seemed to be a lot of strangely dressed people about ."
+39,subj,supposed,he,nsubj,he supposed this was some stupid new fashion .
+39,subj,see,he,nsubj,"he did n't see the owls swoop ing past in broad daylight , though people down in the street did ; they pointed and gazed open- mouthed as owl after owl sped overhead ."
+39,subj,made,he,nsubj,he made several important telephone calls and shouted a bit more .
+39,subj,hugged,he,nsubjpass,he had been hugged by a complete stranger .
+39,subj,rattled,he,nsubjpass,he was rattled .
+40,obj,tell,me,dobj,"viewers as far apart as kent , yorkshire , and dundee have been phoning in to tell me that instead of the rain i promised yesterday , they 've had a downpour of shooting stars !"
+40,obj,ask,me,dobj,"nasty , common name , if you ask me . ''"
+40,subj,seem,he,nsubj,he did n't seem at all upset at being almost knocked to the ground .
+40,subj,said,he,nsubj,"on the contrary , his face split into a wide smile and he said in a squeaky voice that made passersby stare , `` do n't be sorry , my dear sir , for nothing could upset me today !"
+40,subj,grin,himself,nsubj,the newscaster allowed himself a grin .
+41,subj,left,he,nsubj,"`` little tyke , '' chortled mr. dursley as he left the house ."
+44,obj,reading,map,dobj,it was on the corner of the street that he noticed the first sign of something peculiar -- a cat reading a map .
+47,obj,flooded,him,dobj,fear flooded him .
+47,obj,pull,himself,dobj,"trying to pull himself together , he let himself into the house ."
+47,obj,let,himself,dobj,"trying to pull himself together , he let himself into the house ."
+47,obj,tell,her,dobj,mr. dursley wondered whether he dared tell her he 'd heard the name `` potter . ''
+47,obj,swung,himself,dobj,"wiping his streaming eyes on his jacket sleeve , hagrid swung himself onto the motorcycle and kicked the engine into life ; with a roar it rose into the air and off into the night ."
+47,obj,took,outer,dobj,on the corner he stopped and took out the silver put-outer .
+47,subj,blinked,dursley,nsubj,mr. dursley blinked and stared at the cat .
+47,subj,stared,it,nsubj,it stared back .
+47,subj,drummed,he,nsubj,he drummed his fingers on the steering wheel and his eyes fell on a huddle of these weirdos standing quite close by .
+47,subj,yelled,he,nsubj,he yelled at five different people .
+47,subj,forgotten,he,nsubj,he 'd forgotten all about the people in cloaks until he passed a group of them next to the baker 's .
+47,subj,passed,he,nsubj,he 'd forgotten all about the people in cloaks until he passed a group of them next to the baker 's .
+47,subj,eyed,he,nsubj,he eyed them angrily as he passed .
+47,subj,passed,he,nsubj,he eyed them angrily as he passed .
+47,subj,know,he,nsubj,"he did n't know why , but they made him uneasy ."
+47,subj,uneasy,him,nsubj,"he did n't know why , but they made him uneasy ."
+47,subj,see,he,nsubj,"this bunch were whispering excitedly , too , and he could n't see a single collecting tin ."
+47,subj,caught,he,nsubj,"it was on his way back past them , clutching a large doughnut in a bag , that he caught a few words of what they were saying ."
+47,subj,looked,he,nsubj,"he looked back at the whisperers as if he wanted to say something to them , but thought better of it ."
+47,subj,dashed,he,nsubj,"he dashed back across the road , hurried up to his office , snapped at his secretary not to disturb him , seized his telephone , and had almost finished dialing his home number when he changed his mind ."
+47,subj,changed,he,nsubj,"he dashed back across the road , hurried up to his office , snapped at his secretary not to disturb him , seized his telephone , and had almost finished dialing his home number when he changed his mind ."
+47,subj,put,he,nsubj,"he put the receiver back down and stroked his mustache , thinking ... no , he was being stupid ."
+47,subj,seen,he,nsubj,he 'd never even seen the boy .
+47,subj,blame,he,nsubj,"he did n't blame her -- if he 'd had a sister like that ... but all the same , those people in cloaks ..."
+47,subj,had,he,nsubj,"he did n't blame her -- if he 'd had a sister like that ... but all the same , those people in cloaks ..."
+47,subj,found,he,nsubj,"he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock , he was still so worried that he walked straight into someone just outside the door ."
+47,subj,left,he,nsubj,"he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock , he was still so worried that he walked straight into someone just outside the door ."
+47,subj,thought,he,nsubj,"he also thought he had been called a muggle , whatever that was ."
+47,subj,hurried,he,nsubj,"he hurried to his car and set off for home , hoping he was imagining things , which he had never hoped before , because he did n't approve of imagination ."
+47,subj,imagining,he,nsubj,"he hurried to his car and set off for home , hoping he was imagining things , which he had never hoped before , because he did n't approve of imagination ."
+47,subj,pulled,he,nsubj,"as he pulled into the driveway of number four , the first thing he saw -- and it did n't improve his mood -- was the tabby cat he 'd spotted that morning ."
+47,subj,spotted,he,nsubj,"as he pulled into the driveway of number four , the first thing he saw -- and it did n't improve his mood -- was the tabby cat he 'd spotted that morning ."
+47,subj,move,cat,nsubj,the cat did n't move .
+47,subj,let,he,nsubj,"trying to pull himself together , he let himself into the house ."
+47,subj,went,he,nsubj,"when dudley had been put to bed , he went into the living room in time to catch the last report on the evening news :"
+47,subj,cleared,he,nsubj,he cleared his throat nervously .
+47,subj,expected,he,nsubj,"as he had expected , mrs. dursley looked shocked and angry ."
+47,subj,decided,he,nsubj,he decided he did n't dare .
+47,subj,said,he,nsubj,"instead he said , as casually as he could , `` their son -- he 'd be about dudley 's age now , would n't he ? ''"
+47,subj,said,dursley,nsubj,"`` oh , yes , '' said mr. dursley , his heart sinking horribly ."
+47,subj,imagining,he,nsubj,was he imagining things ?
+47,subj,think,he,nsubj,"if it did ... if it got out that they were related to a pair of -- well , he did n't think he could bear it ."
+47,subj,fell,he,nsubj,"his last , comforting thought before he fell asleep was that even if the potters were involved , there was no reason for them to come near him and mrs. dursley ."
+47,subj,thought,he,nsubj,the potters knew very well what he and petunia thought about them and their kind ... .
+47,subj,see,he,nsubj,he could n't see how he and petunia could get mixed up in anything that might be going on -- he yawned and turned over -- it could n't affect them ... .
+47,subj,chuckled,he,nsubj,"he chuckled and muttered , `` i should have known . ''"
+47,subj,seemed,it,nsubj,it seemed to be a silver cigarette lighter .
+47,subj,clicked,he,nsubj,"twelve times he clicked the put-outer , until the only lights left on the whole street were two tiny pinpricks in the distance , which were the eyes of the cat watching him ."
+47,subj,look,he,nsubj,"he did n't look at it , but after a moment he spoke to it ."
+47,subj,spoke,he,nsubj,"he did n't look at it , but after a moment he spoke to it ."
+47,subj,turned,he,nsubj,"he turned to smile at the tabby , but it had gone ."
+47,subj,sniffed,mcgonagall,nsubj,professor mcgonagall sniffed angrily .
+47,subj,unsticking,who,nsubj,"professor mcgonagall flinched , but dumbledore , who was unsticking two lemon drops , seemed not to notice ."
+47,subj,shot,mcgonagall,nsubj,"professor mcgonagall shot a sharp look at dumbledore and said , `` the owls are nothing next to the rumors that are flying around ."
+47,subj,disappeared,he,nsubjpass,about why he 's disappeared ?
+47,subj,reached,mcgonagall,nsubj,"it seemed that professor mcgonagall had reached the point she was most anxious to discuss , the real reason she had been waiting on a cold , hard wall all day , for neither as a cat nor as a woman had she fixed dumbledore with such a piercing stare as she did now ."
+47,subj,went,he,nsubj,he went to find the potters .
+47,subj,gasped,mcgonagall,nsubj,professor mcgonagall gasped .
+47,subj,could,he,nsubj,but -- he could n't .
+47,subj,kill,he,nsubj,he could n't kill that little boy .
+47,subj,put,he,nsubj,"it must have made sense to dumbledore , though , because he put it back in his pocket and said , `` hagrid 's late ."
+47,subj,hiding,he,nsubj,she eyed his cloak suddenly as though she thought he might be hiding harry underneath it .
+47,subj,looked,he,nsubj,"he looked simply too big to be allowed , and so wild - long tangles of bushy black hair and beard hid most of his face , he had hands the size of trash can lids , and his feet in their leather boots were like baby dolphins ."
+47,subj,laid,he,nsubj,"he laid harry gently on the doorstep , took a letter out of his cloak , tucked it inside harry 's blankets , and then came back to the other two ."
+47,subj,stopped,he,nsubj,on the corner he stopped and took out the silver put-outer .
+47,subj,clicked,he,nsubj,"he clicked it once , and twelve balls of light sped back to their street lamps so that privet drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street ."
+47,subj,make,he,nsubj,"he clicked it once , and twelve balls of light sped back to their street lamps so that privet drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street ."
+47,subj,see,he,nsubj,he could just see the bundle of blankets on the step of number four .
+47,subj,turned,he,nsubj,"he turned on his heel and with a swish of his cloak , he was gone ."
+47,subj,slept,he,nsubj,"one small hand closed on the letter beside him and he slept on , not knowing he was special , not knowing he was famous , not knowing he would be woken in a few hours ' time by mrs. dursley 's scream as she opened the front door to put out the milk bottles , nor that he would spend the next few weeks being prodded and pinched by his cousin dudley ..."
+47,subj,slept,he,nsubj,"harry was used to spiders , because the cupboard under the stairs was full of them , and that was where he slept ."
+47,subj,wanted,he,nsubj,"it looked as though dudley had gotten the new computer he wanted , not to mention the second television and the racing bike ."
+47,subj,catch,he,nsubj,"dudley 's favorite punching bag was harry , but he could n't often catch him ."
+47,subj,looked,he,nsubj,"he looked even smaller and skinnier than he really was because all he had to wear were old clothes of dudley 's , and dudley was about four times bigger than he was ."
+47,subj,gotten,he,nsubj,"he had had it as long as he could remember , and the first question he could ever remember asking his aunt petunia was how he had gotten it ."
+49,subj,reading,it,nsubj,"it was now reading the sign that said privet drive -- no , looking at the sign ; cats could n't read maps or signs ."
+57,subj,gone,he,nsubj,"i suppose he really has gone , dumbledore ? ''"
+58,subj,struck,it,nsubj,"but then it struck mr. dursley that this was probably some silly stunt -- these people were obviously collecting for something ... yes , that would be it ."
+59,subj,pointed,they,nsubj,"he did n't see the owls swoop ing past in broad daylight , though people down in the street did ; they pointed and gazed open- mouthed as owl after owl sped overhead ."
+59,subj,made,they,nsubj,"he did n't know why , but they made him uneasy ."
+62,subj,harder,it,nsubj,"if he had n't , he might have found it harder to concentrate on drills that morning ."
+66,obj,buy,bun,dobj,"he was in a very good mood until lunchtime , when he thought he 'd stretch his legs and walk across the road to buy himself a bun from the bakery ."
+67,obj,eyed,them,dobj,he eyed them angrily as he passed .
+67,subj,saying,they,nsubj,"it was on his way back past them , clutching a large doughnut in a bag , that he caught a few words of what they were saying ."
+67,subj,pretended,they,nsubj,"after all , they normally pretended she did n't have a sister ."
+67,subj,come,them,nsubj,"his last , comforting thought before he fell asleep was that even if the potters were involved , there was no reason for them to come near him and mrs. dursley ."
+68,obj,passed,group,dobj,he 'd forgotten all about the people in cloaks until he passed a group of them next to the baker 's .
+70,obj,saying,what,dobj,"it was on his way back past them , clutching a large doughnut in a bag , that he caught a few words of what they were saying ."
+79,obj,seized,telephone,dobj,"he dashed back across the road , hurried up to his office , snapped at his secretary not to disturb him , seized his telephone , and had almost finished dialing his home number when he changed his mind ."
+80,obj,put,receiver,dobj,"he put the receiver back down and stroked his mustache , thinking ... no , he was being stupid ."
+82,obj,seen,boy,dobj,he 'd never even seen the boy .
+82,subj,called,nephew,nsubjpass,"come to think of it , he was n't even sure his nephew was called harry ."
+82,subj,hugged,man,nsubj,and the old man hugged mr. dursley around the middle and walked off .
+85,obj,had,sister,dobj,"he did n't blame her -- if he 'd had a sister like that ... but all the same , those people in cloaks ..."
+87,obj,found,it,dobj,"he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock , he was still so worried that he walked straight into someone just outside the door ."
+88,obj,left,building,dobj,"he found it a lot harder to concentrate on drills that afternoon and when he left the building at five o'clock , he was still so worried that he walked straight into someone just outside the door ."
+92,subj,improve,it,nsubj,"as he pulled into the driveway of number four , the first thing he saw -- and it did n't improve his mood -- was the tabby cat he 'd spotted that morning ."
+93,subj,sitting,it,nsubj,it was now sitting on his garden wall .
+97,subj,gave,it,nsubj,it just gave him a stern look .
+101,subj,hunt,owls,nsubj,"although owls normally hunt at night and are hardly ever seen in daylight , there have been hundreds of sightings of these birds flying in every direction since sunrise ."
+108,subj,celebrating,people,nsubj,"perhaps people have been celebrating bonfire night early -- it 's not until next week , folks !"
+111,obj,shooting,stars,dobj,shooting stars all over britain ?
+121,subj,left,he,nsubj,they 're the only family he has left now . ''
+123,subj,ask,you,nsubj,"nasty , common name , if you ask me . ''"
+124,subj,say,he,nsubj,he did n't say another word on the subject as they went upstairs to bed .
+124,subj,staring,it,nsubj,it was staring down privet drive as though it were waiting for something .
+125,obj,affect,them,dobj,he could n't see how he and petunia could get mixed up in anything that might be going on -- he yawned and turned over -- it could n't affect them ... .
+125,subj,went,they,nsubj,he did n't say another word on the subject as they went upstairs to bed .
+125,subj,related,they,nsubjpass,"if it did ... if it got out that they were related to a pair of -- well , he did n't think he could bear it ."
+125,subj,go,we,nsubj,we may as well go and join the celebrations . ''
+132,obj,bear,it,dobj,"if it did ... if it got out that they were related to a pair of -- well , he did n't think he could bear it ."
+133,subj,got,dursleys,nsubj,the dursleys got into bed .
+136,subj,knew,potters,nsubj,the potters knew very well what he and petunia thought about them and their kind ... .
+137,obj,thought,what,dobj,the potters knew very well what he and petunia thought about them and their kind ... .
+138,subj,affect,it,nsubj,he could n't see how he and petunia could get mixed up in anything that might be going on -- he yawned and turned over -- it could n't affect them ... .
+139,subj,sitting,it,nsubj,"it was sitting as still as a statue , its eyes fixed unblinkingly on the far corner of privet drive ."
+144,obj,amuse,him,dobj,"for some reason , the sight of the cat seemed to amuse him ."
+144,obj,persuade,people,dobj,all this 'you- know-who ' nonsense -- for eleven years i have been trying to persuade people to call him by his proper name : voldemort . ''
+144,obj,stopped,him,dobj,about what finally stopped him ? ''
+144,obj,stop,him,dobj,it 's just astounding ... of all the things to stop him ... but how in the name of heaven did harry survive ? ''
+144,obj,understand,him,dobj,these people will never understand him !
+144,subj,appeared,man,nsubj,"a man appeared on the corner the cat had been watching , appeared so suddenly and silently you 'd have thought he 'd just popped out of the ground ."
+144,subj,popped,he,nsubj,"a man appeared on the corner the cat had been watching , appeared so suddenly and silently you 'd have thought he 'd just popped out of the ground ."
+144,subj,wearing,he,nsubj,"he was wearing long robes , a purple cloak that swept the ground , and high-heeled , buckled boots ."
+144,subj,arrived,he,nsubj,albus dumbledore did n't seem to realize that he had just arrived in a street where everything from his name to his boots was unwelcome .
+144,subj,seem,he,nsubj,"but he did seem to realize he was being watched , because he looked up suddenly at the cat , which was still staring at him from the other end of the street ."
+144,subj,found,he,nsubj,he found what he was looking for in his inside pocket .
+144,subj,looking,he,nsubj,he found what he was looking for in his inside pocket .
+144,subj,flicked,he,nsubj,"he flicked it open , held it up in the air , and clicked it ."
+144,subj,clicked,he,nsubj,he clicked it again -- the next lamp flickered into darkness .
+144,subj,going,he,nsubj,"she threw a sharp , sideways glance at dumbledore here , as though hoping he was going to tell her something , but he did n't , so she went on ."
+144,subj,said,he,nsubj,i know ... '' he said heavily .
+144,subj,tried,he,nsubj,"they 're saying he tried to kill the potter 's son , harry ."
+144,subj,kill,he,nsubj,"no one knows why , or how , but they 're saying that when he could n't kill harry potter , voldemort 's power somehow broke -- and that 's why he 's gone ."
+144,subj,gone,he,nsubjpass,"no one knows why , or how , but they 're saying that when he could n't kill harry potter , voldemort 's power somehow broke -- and that 's why he 's gone ."
+144,subj,tend,he,nsubj,he does tend to -- what was that ? ''
+145,subj,thought,you,nsubj,"a man appeared on the corner the cat had been watching , appeared so suddenly and silently you 'd have thought he 'd just popped out of the ground ."
+150,obj,flicked,it,dobj,"he flicked it open , held it up in the air , and clicked it ."
+151,subj,went,lamp,nsubj,the nearest street lamp went out with a little pop .
+152,obj,clicked,it,dobj,he clicked it again -- the next lamp flickered into darkness .
+153,obj,clicked,outer,dobj,"twelve times he clicked the put-outer , until the only lights left on the whole street were two tiny pinpricks in the distance , which were the eyes of the cat watching him ."
+154,subj,looked,anyone,nsubj,"if anyone looked out of their window now , even beady-eyed mrs. dursley , they would n't be able to see anything that was happening down on the pavement ."
+161,obj,told,me,dobj,i have n't blushed so much since madam pomfrey told me she liked my new earmuffs . ''
+161,obj,told,her,dobj,"it was plain that whatever `` everyone '' was saying , she was not going to believe it until dumbledore told her it was true ."
+161,obj,patted,her,dobj,dumbledore reached out and patted her on the shoulder .
+161,obj,told,you,dobj,"i suppose it was he who told you i 'd be here , by the way ? ''"
+161,obj,hiding,harry,dobj,she eyed his cloak suddenly as though she thought he might be hiding harry underneath it .
+161,obj,took,harry,dobj,dumbledore took harry in his arms and turned toward the dursleys ' house .
+161,obj,laid,harry,dobj,"he laid harry gently on the doorstep , took a letter out of his cloak , tucked it inside harry 's blankets , and then came back to the other two ."
+161,obj,find,nephew,dobj,"nearly ten years had passed since the dursleys had woken up to find their nephew on the front step , but privet drive had hardly changed at all ."
+161,obj,punched,him,dobj,he wore round glasses held together with a lot of scotch tape because of all the times dudley had punched him on the nose .
+161,obj,took,him,dobj,"every year on dudley 's birthday , his parents took him and a friend out for the day , to adventure parks , hamburger restaurants , or the movies ."
+161,obj,wanted,what,dobj,"`` you could just leave me here , '' harry put in hopefully ( he 'd be able to watch what he wanted on television for a change and maybe even have a go on dudley 's computer ) ."
+161,obj,taken,harry,dobj,"his aunt and uncle had n't been able to think of anything else to do with him , but before they 'd left , uncle vernon had taken harry aside ."
+161,obj,believe,him,dobj,but uncle vernon did n't believe him .
+161,obj,force,him,dobj,"another time , aunt petunia had been trying to force him into a revolting old sweater of dudley 's ( brown with orange puff balls ) -- the harder she tried to pull it over his head , the smaller it seemed to become , until finally it might have fitted a hand puppet , but certainly would n't fit harry ."
+161,obj,fit,harry,dobj,"another time , aunt petunia had been trying to force him into a revolting old sweater of dudley 's ( brown with orange puff balls ) -- the harder she tried to pull it over his head , the smaller it seemed to become , until finally it might have fitted a hand puppet , but certainly would n't fit harry ."
+161,obj,telling,harry,dobj,the dursleys had received a very angry letter from harry 's headmistress telling them harry had been climbing school buildings .
+161,obj,caught,him,dobj,harry supposed that the wind must have caught him in mid- jump .
+161,obj,asked,harry,dobj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+161,obj,hurry,him,dobj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+161,obj,hitting,him,dobj,"he was careful to walk a little way apart from the dursleys so that dudley and piers , who were starting to get bored with the animals by lunchtime , would n't fall back on their favorite hobby of hitting him ."
+161,obj,uncoiling,itself,dobj,"the great snake was uncoiling itself rapidly , slithering out onto the floor ."
+161,obj,squeeze,him,dobj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+161,obj,take,him,dobj,"when he had been younger , harry had dreamed and dreamed of some unknown relation coming to take him away , but it had never happened ; the dursleys were his only family ."
+161,obj,asking,harry,dobj,"after asking harry furiously if he knew the man , aunt petunia had rushed them out of the shop without buying anything ."
+161,obj,trust,himself,dobj,harry did n't trust himself to speak .
+161,obj,thought,it,dobj,"harry seriously doubted this , but thought it best not to argue ."
+161,obj,snatch,it,dobj,"said harry , trying to snatch it back ."
+161,obj,took,harry,dobj,it only took harry one trip upstairs to move everything he owned from the cupboard to this room .
+161,obj,want,you,dobj,i want you all back here in five minutes ready to leave .
+161,subj,gone,it,nsubj,"he turned to smile at the tabby , but it had gone ."
+161,subj,smiling,he,nsubj,instead he was smiling at a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes .
+161,subj,celebrating,you,nsubj,when you could have been celebrating ?
+161,subj,care,you,nsubj,would you care for a lemon drop ? ''
+161,subj,know,you,nsubj,you know what everyone 's saying ?
+161,subj,seemed,it,nsubj,"it seemed that professor mcgonagall had reached the point she was most anxious to discuss , the real reason she had been waiting on a cold , hard wall all day , for neither as a cat nor as a woman had she fixed dumbledore with such a piercing stare as she did now ."
+161,subj,fixed,she,nsubj,"it seemed that professor mcgonagall had reached the point she was most anxious to discuss , the real reason she had been waiting on a cold , hard wall all day , for neither as a cat nor as a woman had she fixed dumbledore with such a piercing stare as she did now ."
+161,subj,went,she,nsubj,professor mcgonagall 's voice trembled as she went on .
+161,subj,see,you,nsubj,"cara you see how much better off he 'll be , growing up away from all that until he 's ready to take it ? ''"
+161,subj,getting,boy,nsubj,"but how is the boy getting here , dumbledore ? ''"
+161,subj,said,professor,nsubj,"`` i 'm not saying his heart is n't in the right place , '' said professor mcgonagall grudgingly , `` but you ca n't pretend he 's not careless ."
+161,subj,took,dumbledore,nsubj,dumbledore took harry in his arms and turned toward the dursleys ' house .
+161,subj,bent,he,nsubj,"he bent his great , shaggy head over harry and gave him what must have been a very scratchy , whiskery kiss ."
+161,subj,blew,mcgonagall,nsubj,professor mcgonagall blew her nose in reply .
+161,subj,dare,you,nsubj,"and do n't you dare let it burn , i want everything perfect on duddy 's birthday . ''"
+161,subj,groaned,harry,nsubj,harry groaned .
+161,subj,got,harry,nsubj,harry got slowly out of bed and started looking for socks .
+161,subj,found,he,nsubj,"he found a pair under his bed and , after pulling a spider off one of them , put them on ."
+161,subj,used,harry,nsubjpass,"harry was used to spiders , because the cupboard under the stairs was full of them , and that was where he slept ."
+161,subj,wore,he,nsubj,he wore round glasses held together with a lot of scotch tape because of all the times dudley had punched him on the nose .
+161,subj,liked,harry,nsubj,the only thing harry liked about his own appearance was a very thin scar on his forehead that was shaped like a bolt of lightning .
+161,subj,had,he,nsubj,"he had had it as long as he could remember , and the first question he could ever remember asking his aunt petunia was how he had gotten it ."
+161,subj,remember,he,nsubj,"he had had it as long as he could remember , and the first question he could ever remember asking his aunt petunia was how he had gotten it ."
+161,subj,turning,harry,nsubj,uncle vernon entered the kitchen as harry was turning over the bacon .
+161,subj,barked,he,nsubj,"he barked , by way of a morning greeting ."
+161,subj,looked,vernon,nsubj,"about once a week , uncle vernon looked over the top of his newspaper and shouted that harry needed a haircut ."
+161,subj,needed,harry,nsubj,"about once a week , uncle vernon looked over the top of his newspaper and shouted that harry needed a haircut ."
+161,subj,had,harry,nsubj,harry must have had more haircuts than the rest of the boys in his class put
+161,subj,frying,harry,nsubj,harry was frying eggs by the time dudley arrived in the kitchen with his mother .
+161,subj,looked,dudley,nsubj,aunt petunia often said that dudley looked like a baby angel -- harry often said that dudley looked like a pig in a wig .
+161,subj,looked,dudley,nsubj,aunt petunia often said that dudley looked like a baby angel -- harry often said that dudley looked like a pig in a wig .
+161,subj,put,harry,nsubj,"harry put the plates of egg and bacon on the table , which was difficult as there was n't much room ."
+161,subj,see,who,nsubj,"harry , who could see a huge dudley tantrum coming on , began wolfing down his bacon as fast as possible in case dudley turned the table over ."
+161,subj,began,harry,nsubj,"harry , who could see a huge dudley tantrum coming on , began wolfing down his bacon as fast as possible in case dudley turned the table over ."
+161,subj,looked,it,nsubj,it looked like hard work .
+161,subj,said,he,nsubj,"finally he said slowly , `` so i 'll have thirty ... thirty ... ''"
+161,subj,chuckled,vernon,nsubj,uncle vernon chuckled .
+161,subj,ruffled,he,nsubj,he ruffled dudley 's hair .
+161,subj,watched,vernon,nsubj,"at that moment the telephone rang and aunt petunia went to answer it while harry and uncle vernon watched dudley unwrap the racing bike , a video camera , a remote control airplane , sixteen new computer games , and a vcr ."
+161,subj,ripping,he,nsubj,he was ripping the paper off a gold wristwatch when aunt petunia came back from the telephone looking both angry and worried .
+161,subj,take,she,nsubj,she ca n't take him . ''
+161,subj,left,harry,nsubjpass,"every year , harry was left behind with mrs. figg , a mad old lady who lived two streets away ."
+161,subj,hated,harry,nsubj,harry hated it there .
+161,subj,planned,he,nsubj,"said aunt petunia , looking furiously at harry as though he 'd planned this ."
+161,subj,knew,harry,nsubj,"harry knew he ought to feel sorry that mrs. figg had broken her leg , but it was n't easy when he reminded himself it would be a whole year before he had to look at tibbles , snowy , mr. paws , and tufty again ."
+161,subj,crying,he,nsubj,"in fact , he was n't really crying -- it had been years since he 'd really cried -- but he knew that if he screwed up his face and wailed , his mother would give him anything he wanted ."
+161,subj,cried,he,nsubj,"in fact , he was n't really crying -- it had been years since he 'd really cried -- but he knew that if he screwed up his face and wailed , his mother would give him anything he wanted ."
+161,subj,wanted,he,nsubj,"in fact , he was n't really crying -- it had been years since he 'd really cried -- but he knew that if he screwed up his face and wailed , his mother would give him anything he wanted ."
+161,subj,shot,he,nsubj,he shot harry a nasty grin through the gap in his mother 's arms .
+161,subj,believe,who,nsubj,"half an hour later , harry , who could n't believe his luck , was sitting in the back of the dursleys ' car with piers and dudley , on the way to the zoo for the first time in his life ."
+161,subj,sitting,harry,nsubj,"half an hour later , harry , who could n't believe his luck , was sitting in the back of the dursleys ' car with piers and dudley , on the way to the zoo for the first time in his life ."
+161,subj,taken,vernon,nsubj,"his aunt and uncle had n't been able to think of anything else to do with him , but before they 'd left , uncle vernon had taken harry aside ."
+161,subj,warning,i,nsubj,"`` i 'm warning you , '' he had said , putting his large purple face right up close to harry 's , `` i 'm warning you now , boy -- any funny business , anything at all -- and you 'll be in that cupboard from now until christmas . ''"
+161,subj,going,i,nsubj,"`` i 'm not going to do anything , '' said harry , `` honestly.."
+161,subj,believe,vernon,nsubj,but uncle vernon did n't believe him .
+161,subj,make,he,nsubj,"the problem was , strange things often happened around harry and it was just no good telling the dursleys he did n't make them happen ."
+161,subj,spent,who,nsubj,"dudley had laughed himself silly at harry , who spent a sleepless night imagining school the next day , where he was already laughed at for his baggy clothes and taped glasses ."
+161,subj,given,he,nsubjpass,"next morning , however , he had gotten up to find his hair exactly as it had been before aunt petunia had sheared it off he had been given a week in his cupboard for this , even though he had tried to explain that he could n't explain how it had grown back so quickly ."
+161,subj,gotten,he,nsubj,"on the other hand , he 'd gotten into terrible trouble for being found on the roof of the school kitchens ."
+161,subj,sitting,he,nsubj,"dudley 's gang had been chasing him as usual when , as much to harry 's surprise as anyone else 's , there he was sitting on the chimney ."
+161,subj,tried,he,nsubj,but all he 'd tried to do ( as he shouted at uncle vernon through the locked door of his cupboard ) was jump behind the big trash cans outside the kitchen doors .
+161,subj,supposed,harry,nsubj,harry supposed that the wind must have caught him in mid- jump .
+161,subj,drove,he,nsubj,"while he drove , uncle vernon complained to aunt petunia ."
+161,subj,liked,he,nsubj,"he liked to complain about things : people at work , harry , the council , harry , the bank , and harry were just a few of his favorite subjects ."
+161,subj,said,harry,nsubj,"i had a dream about a motorcycle , '' said harry , remembering suddenly ."
+161,subj,turned,he,nsubj,"he turned right around in his seat and yelled at harry , his face like a gigantic beet with a mustache : `` motorcycles do n't fly ! ''"
+161,subj,said,harry,nsubj,"i know they do n't , '' said harry ."
+161,subj,wished,he,nsubj,but he wished he had n't said anything .
+161,subj,wanted,he,nsubj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+161,subj,looked,who,nsubj,"it was n't bad , either , harry thought , licking it as they watched a gorilla scratching its head who looked remarkably like dudley , except that it was n't blond ."
+161,subj,had,he,nsubj,harry had the best morning he 'd had in a long time .
+161,subj,felt,harry,nsubj,"harry felt , afterward , that he should have known it was all too good to last ."
+161,subj,known,he,nsubj,"harry felt , afterward , that he should have known it was all too good to last ."
+161,subj,wrapped,it,nsubj,it could have wrapped its body twice around uncle vernon 's car and crushed it into a trash can -- but at the moment it did n't look in the mood .
+161,subj,tapped,vernon,nsubj,"uncle vernon tapped on the glass , but the snake did n't budge ."
+161,subj,snoozed,snake,nsubj,"uncle vernon rapped the glass smartly with his knuckles , but the snake just snoozed on ."
+161,subj,shuffled,he,nsubj,he shuffled away .
+161,subj,moved,harry,nsubj,harry moved in front of the tank and looked intently at the snake .
+161,subj,got,he,nsubj,"it was worse than having a cupboard as a bedroom , where the only visitor was aunt petunia hammering on the door to wake you up ; at least he got to visit the rest of the house ."
+161,subj,opened,snake,nsubj,the snake suddenly opened its beady eyes .
+161,subj,raised,it,nsubj,"slowly , very slowly , it raised its head until its eyes were on a level with harry 's ."
+161,subj,winked,it,nsubj,it winked .
+161,subj,stared,harry,nsubj,harry stared .
+161,subj,looked,he,nsubj,then he looked quickly around to see if anyone was watching .
+161,subj,looked,he,nsubj,"he looked back at the snake and winked , too ."
+161,subj,jerked,snake,nsubj,"the snake jerked its head toward uncle vernon and dudley , then raised its eyes to the ceiling ."
+161,subj,gave,it,nsubj,it gave harry a look that said quite plainly :
+161,subj,nodded,snake,nsubj,the snake nodded vigorously .
+161,subj,asked,harry,nsubj,harry asked .
+161,subj,jabbed,snake,nsubj,the snake jabbed its tail at a little sign next to the glass .
+161,subj,read,harry,nsubj,the boa constrictor jabbed its tail at the sign again and harry read on : this specimen was bred in the zoo .
+161,subj,shook,snake,nsubj,"as the snake shook its head , a deafening shout behind harry made both of them jump ."
+161,subj,believe,you,nsubj,you wo n't believe what it 's doing ! ''
+161,subj,doing,it,nsubj,you wo n't believe what it 's doing ! ''
+161,subj,could,he,nsubj,dudley came waddling toward them as fast as he could .
+161,subj,fell,harry,nsubj,"caught by surprise , harry fell hard on the concrete floor ."
+161,subj,sat,harry,nsubj,harry sat up and gasped ; the glass front of the boa constrictor 's tank had vanished .
+161,subj,uncoiling,snake,nsubj,"the great snake was uncoiling itself rapidly , slithering out onto the floor ."
+161,subj,slid,snake,nsubj,"as the snake slid swiftly past him , harry could have sworn a low , hissing voice said , `` brazil , here i come ... . thanksss , amigo . ''"
+161,subj,sworn,harry,nsubj,"as the snake slid swiftly past him , harry could have sworn a low , hissing voice said , `` brazil , here i come ... . thanksss , amigo . ''"
+161,subj,made,director,nsubj,"the zoo director himself made aunt petunia a cup of strong , sweet tea while he apologized over and over again ."
+161,subj,apologized,he,nsubj,"the zoo director himself made aunt petunia a cup of strong , sweet tea while he apologized over and over again ."
+161,subj,seen,harry,nsubj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+161,subj,bitten,it,nsubj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+161,subj,managed,he,nsubj,"he managed to say , `` go -- cupboard -- stay -- no meals , '' before he collapsed into a chair , and aunt petunia had to run and get him a large brandy ."
+161,subj,lay,harry,nsubj,"harry lay in his dark cupboard much later , wishing he had a watch ."
+161,subj,lived,he,nsubj,"he 'd lived with the dursleys almost ten years , ten miserable years , as long as he could remember , ever since he 'd been a baby and his parents had died in that car crash ."
+161,subj,remember,he,nsubj,he could n't remember being in the car when his parents had died .
+161,subj,dreamed,harry,nsubj,"when he had been younger , harry had dreamed and dreamed of some unknown relation coming to take him away , but it had never happened ; the dursleys were his only family ."
+161,subj,knew,he,nsubj,"after asking harry furiously if he knew the man , aunt petunia had rushed them out of the shop without buying anything ."
+161,subj,knew,everybody,nsubj,"everybody knew that dudley 's gang hated that odd harry potter in his baggy old clothes and broken glasses , and nobody liked to disagree with dudley 's gang ."
+161,subj,spent,harry,nsubj,"this was why harry spent as much time as possible out of the house , wandering around and thinking about the end of the holidays , where he could see a tiny ray of hope ."
+161,subj,see,he,nsubj,"this was why harry spent as much time as possible out of the house , wandering around and thinking about the end of the holidays , where he could see a tiny ray of hope ."
+161,subj,going,he,nsubj,"when september came he would be going off to secondary school and , for the first time in his life , he would n't be with dudley ."
+161,subj,ran,he,nsubj,"then he ran , before dudley could work out what he 'd said ."
+161,subj,said,he,nsubj,"then he ran , before dudley could work out what he 'd said ."
+161,subj,watch,harry,nsubj,she let harry watch television and gave him a bit of chocolate cake that tasted as though she 'd had it for several years .
+161,subj,said,vernon,nsubj,"as he looked at dudley in his new knickerbockers , uncle vernon said gruffly that it was the proudest moment of his life ."
+161,subj,trust,harry,nsubj,harry did n't trust himself to speak .
+161,subj,went,harry,nsubj,there was a horrible smell in the kitchen the next morning when harry went in for breakfast .
+161,subj,seemed,it,nsubj,it seemed to be coming from a large metal tub in the sink .
+161,subj,looked,harry,nsubj,harry looked in the bowl again .
+161,subj,doubted,harry,nsubj,"harry seriously doubted this , but thought it best not to argue ."
+161,subj,sat,he,nsubj,"he sat down at the table and tried not to think about how he was going to look on his first day at stonewall high -- like he was wearing bits of old elephant skin , probably ."
+161,subj,wearing,he,nsubj,"he sat down at the table and tried not to think about how he was going to look on his first day at stonewall high -- like he was wearing bits of old elephant skin , probably ."
+161,subj,heard,they,nsubj,they heard the click of the mail slot and flop of letters on the doormat .
+161,subj,dodged,harry,nsubj,harry dodged the smelting stick and went to get the mail .
+161,subj,got,he,nsubj,"he had no friends , no other relatives -- he did n't belong to the library , so he 'd never even got rude notes asking for books back ."
+161,subj,writing,who,nsubj,`` who 'd be writing to you ? ''
+161,subj,think,you,nsubj,you do n't think they 're watching the house ? ''
+162,subj,wearing,who,nsubj,instead he was smiling at a rather severe-looking woman who was wearing square glasses exactly the shape of the markings the cat had had around its eyes .
+162,subj,wearing,she,nsubj,"she , too , was wearing a cloak , an emerald one ."
+162,subj,looked,she,nsubj,she looked distinctly ruffled .
+162,subj,asked,she,nsubj,she asked .
+162,subj,jerked,she,nsubj,she jerked her head back at the dursleys ' dark living-room window .
+162,subj,threw,she,nsubj,"she threw a sharp , sideways glance at dumbledore here , as though hoping he was going to tell her something , but he did n't , so she went on ."
+165,subj,celebrating,everyone,nsubj,"`` oh yes , everyone 's celebrating , all right , '' she said impatiently ."
+167,obj,saying,what,dobj,"`` what they 're saying , '' she pressed on , `` is that last night voldemort turned up in godric 's hollow ."
+167,subj,bound,they,nsubjpass,they were bound to notice something .
+181,subj,knows,everyone,nsubj,"everyone knows you 're the only one you-know- oh , all right , voldemort , was frightened of . ''"
+183,obj,saying,what,dobj,you know what everyone 's saying ?
+184,subj,saying,everyone,nsubj,you know what everyone 's saying ?
+185,subj,stopped,what,nsubj,about what finally stopped him ? ''
+187,subj,saying,everyone,nsubj,"it was plain that whatever `` everyone '' was saying , she was not going to believe it until dumbledore told her it was true ."
+192,obj,believe,it,dobj,i ca n't believe it ...
+193,obj,believe,it,dobj,"i did n't want to believe it ... oh , albus ... ''"
+194,subj,saying,they,nsubj,"they 're saying he tried to kill the potter 's son , harry ."
+195,obj,kill,son,dobj,"they 're saying he tried to kill the potter 's son , harry ."
+196,obj,kill,boy,dobj,he could n't kill that little boy .
+197,subj,knows,one,nsubj,"no one knows why , or how , but they 're saying that when he could n't kill harry potter , voldemort 's power somehow broke -- and that 's why he 's gone ."
+198,subj,saying,they,nsubj,"no one knows why , or how , but they 're saying that when he could n't kill harry potter , voldemort 's power somehow broke -- and that 's why he 's gone ."
+199,subj,took,he,nsubj,dumbledore gave a great sniff as he took a golden watch from his pocket and examined it .
+199,subj,know,he,nsubj,"he could n't know that at this very moment , people meeting in secret all over the country were holding up their glasses and saying in hushed voices : `` to harry potter -- the boy who lived ! ''"
+201,subj,killed,he,nsubjpass,`` after all he 's done ... all the people he 's killed ... he could n't kill a little boy ?
+201,subj,kill,people,nsubj,`` after all he 's done ... all the people he 's killed ... he could n't kill a little boy ?
+205,subj,survive,harry,nsubj,it 's just astounding ... of all the things to stop him ... but how in the name of heaven did harry survive ? ''
+206,subj,looked,they,nsubj,it grew steadily louder as they looked up and down the street for some sign of a headlight ; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them .
+206,subj,looked,they,nsubj,it grew steadily louder as they looked up and down the street for some sign of a headlight ; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them .
+207,obj,examined,it,dobj,dumbledore gave a great sniff as he took a golden watch from his pocket and examined it .
+209,subj,made,it,nsubj,"it must have made sense to dumbledore , though , because he put it back in his pocket and said , `` hagrid 's late ."
+210,obj,put,it,dobj,"it must have made sense to dumbledore , though , because he put it back in his pocket and said , `` hagrid 's late ."
+211,subj,told,who,nsubj,"i suppose it was he who told you i 'd be here , by the way ? ''"
+214,obj,bring,harry,dobj,`` i 've come to bring harry to his aunt and uncle .
+218,obj,mean,people,dobj,`` you do n't mean -- you ca n't mean the people who live here ? ''
+218,subj,live,who,nsubj,`` you do n't mean -- you ca n't mean the people who live here ? ''
+219,subj,jumping,mcgonagall,nsubj,"cried professor mcgonagall , jumping to her feet and pointing at number four ."
+220,subj,find,you,nsubj,you could n't find two people who are less like us .
+221,obj,find,people,dobj,you could n't find two people who are less like us .
+222,subj,got,they,nsubj,"and they 've got this son -- i saw him kicking his mother all the way up the street , screaming for sweets ."
+223,subj,walk,he,nsubj,famous before he can walk and talk !
+223,subj,remember,he,nsubj,famous for something he wo n't even remember !
+223,subj,growing,he,nsubj,"cara you see how much better off he 'll be , growing up away from all that until he 's ready to take it ? ''"
+223,subj,lived,who,nsubj,"he could n't know that at this very moment , people meeting in secret all over the country were holding up their glasses and saying in hushed voices : `` to harry potter -- the boy who lived ! ''"
+227,subj,come,potter,nsubj,harry potter come and live here ! ''
+232,subj,understand,people,nsubj,these people will never understand him !
+233,subj,know,child,nsubj,he 'll be famous -- a legend -- i would n't be surprised if today was known as harry potter day in the future -- there will be books written about harry -- every child in our world will know his name ! ''
+237,obj,take,it,dobj,"cara you see how much better off he 'll be , growing up away from all that until he 's ready to take it ? ''"
+241,subj,grew,it,nsubj,it grew steadily louder as they looked up and down the street for some sign of a headlight ; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them .
+243,subj,swelled,it,nsubj,it grew steadily louder as they looked up and down the street for some sign of a headlight ; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them .
+244,subj,fell,motorcycle,nsubj,it grew steadily louder as they looked up and down the street for some sign of a headlight ; it swelled to a roar as they both looked up at the sky -- and a huge motorcycle fell out of the air and landed on the road in front of them .
+246,obj,gave,him,dobj,"he bent his great , shaggy head over harry and gave him what must have been a very scratchy , whiskery kiss ."
+246,obj,catch,him,dobj,"dudley 's favorite punching bag was harry , but he could n't often catch him ."
+246,subj,holding,he,nsubj,"in his vast , muscular arms he was holding a bundle of blankets ."
+246,subj,gone,he,nsubjpass,"he turned on his heel and with a swish of his cloak , he was gone ."
+253,obj,give,him,dobj,"well -- give him here , hagrid -- we 'd better get this over with . ''"
+253,obj,take,him,dobj,she ca n't take him . ''
+253,subj,fell,he,nsubj,he fell asleep as we was flyin ' over bristol . ''
+264,obj,let,howl,dobj,"then , suddenly , hagrid let out a howl like a wounded dog ."
+267,obj,stand,it,dobj,`` but i c-c-ca n't stand it -- lily an ' james dead -- an ' poor little harry off ter live with muggles - ''
+270,obj,understand,them,dobj,"the dursleys often spoke about harry like this , as though he was n't there -- or rather , as though he was something very nasty that could n't understand them , like a slug ."
+271,subj,stepped,dumbledore,nsubj,"`` yes , yes , it 's all very sad , but get a grip on yourself , hagrid , or we 'll be found , '' professor mcgonagall whispered , patting hagrid gingerly on the arm as dumbledore stepped over the low garden wall and walked to the front door ."
+272,obj,tucked,it,dobj,"he laid harry gently on the doorstep , took a letter out of his cloak , tucked it inside harry 's blankets , and then came back to the other two ."
+273,subj,blinked,mcgonagall,nsubj,"for a full minute the three of them stood and looked at the little bundle ; hagrid 's shoulders shook , professor mcgonagall blinked furiously , and the twinkling light that usually shone from dumbledore 's eyes seemed to have gone out ."
+276,subj,rose,it,nsubj,"wiping his streaming eyes on his jacket sleeve , hagrid swung himself onto the motorcycle and kicked the engine into life ; with a roar it rose into the air and off into the night ."
+278,obj,clicked,it,dobj,"he clicked it once , and twelve balls of light sped back to their street lamps so that privet drive glowed suddenly orange and he could make out a tabby cat slinking around the corner at the other end of the street ."
+281,subj,expect,you,nsubj,"a breeze ruffled the neat hedges of privet drive , which lay silent and tidy under the inky sky , the very last place you would expect astonishing things to happen ."
+284,subj,meeting,people,nsubj,"he could n't know that at this very moment , people meeting in secret all over the country were holding up their glasses and saying in hushed voices : `` to harry potter -- the boy who lived ! ''"
+287,obj,lit,number,dobj,"the sun rose on the same tidy front gardens and lit up the brass number four on the dursleys ' front door ; it crept into their living room , which was almost exactly the same as it had been on the night when mr. dursley had seen that fateful news report about the owls ."
+287,subj,rose,sun,nsubj,"the sun rose on the same tidy front gardens and lit up the brass number four on the dursleys ' front door ; it crept into their living room , which was almost exactly the same as it had been on the night when mr. dursley had seen that fateful news report about the owls ."
+288,subj,crept,it,nsubj,"the sun rose on the same tidy front gardens and lit up the brass number four on the dursleys ' front door ; it crept into their living room , which was almost exactly the same as it had been on the night when mr. dursley had seen that fateful news report about the owls ."
+291,subj,looked,what,nsubj,"ten years ago , there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets -- but dudley dursley was no longer a baby , and now the photographs showed a large blond boy riding his first bicycle , on a carousel at the fair , playing a computer game with his father , being hugged and kissed by his mother ."
+291,subj,heard,harry,nsubj,harry heard her walking toward the kitchen and then the sound of the frying pan being put on the stove .
+291,subj,rolled,he,nsubj,he rolled onto his back and tried to remember the dream he had been having .
+291,subj,having,he,nsubj,he rolled onto his back and tried to remember the dream he had been having .
+291,subj,forgotten,he,nsubj,dudley 's birthday -- how could he have forgotten ?
+291,subj,dressed,he,nsubjpass,when he was dressed he went down the hall into the kitchen .
+291,subj,ought,he,nsubj,"harry knew he ought to feel sorry that mrs. figg had broken her leg , but it was n't easy when he reminded himself it would be a whole year before he had to look at tibbles , snowy , mr. paws , and tufty again ."
+291,subj,tried,he,nsubj,"next morning , however , he had gotten up to find his hair exactly as it had been before aunt petunia had sheared it off he had been given a week in his cupboard for this , even though he had tried to explain that he could n't explain how it had grown back so quickly ."
+292,obj,wearing,bonnets,dobj,"ten years ago , there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets -- but dudley dursley was no longer a baby , and now the photographs showed a large blond boy riding his first bicycle , on a carousel at the fair , playing a computer game with his father , being hugged and kissed by his mother ."
+293,obj,showed,boy,dobj,"ten years ago , there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets -- but dudley dursley was no longer a baby , and now the photographs showed a large blond boy riding his first bicycle , on a carousel at the fair , playing a computer game with his father , being hugged and kissed by his mother ."
+293,subj,showed,photographs,nsubj,"ten years ago , there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets -- but dudley dursley was no longer a baby , and now the photographs showed a large blond boy riding his first bicycle , on a carousel at the fair , playing a computer game with his father , being hugged and kissed by his mother ."
+294,obj,playing,game,dobj,"ten years ago , there had been lots of pictures of what looked like a large pink beach ball wearing different-colored bonnets -- but dudley dursley was no longer a baby , and now the photographs showed a large blond boy riding his first bicycle , on a carousel at the fair , playing a computer game with his father , being hugged and kissed by his mother ."
+295,subj,held,room,nsubj,"the room held no sign at all that another boy lived in the house , too ."
+296,subj,lived,boy,nsubj,"the room held no sign at all that another boy lived in the house , too ."
+306,subj,burn,it,nsubj,"and do n't you dare let it burn , i want everything perfect on duddy 's birthday . ''"
+311,subj,looked,it,nsubj,"it looked as though dudley had gotten the new computer he wanted , not to mention the second television and the racing bike ."
+312,subj,involved,it,nsubj,"exactly why dudley wanted a racing bike was a mystery to harry , as dudley was very fat and hated exercise -- unless of course it involved punching somebody ."
+313,obj,punching,somebody,dobj,"exactly why dudley wanted a racing bike was a mystery to harry , as dudley was very fat and hated exercise -- unless of course it involved punching somebody ."
+314,subj,look,harry,nsubj,"harry did n't look it , but he was very fast ."
+315,obj,look,it,dobj,"harry did n't look it , but he was very fast ."
+316,obj,had,it,dobj,"he had had it as long as he could remember , and the first question he could ever remember asking his aunt petunia was how he had gotten it ."
+318,obj,gotten,it,dobj,"he had had it as long as he could remember , and the first question he could ever remember asking his aunt petunia was how he had gotten it ."
+320,obj,entered,kitchen,dobj,uncle vernon entered the kitchen as harry was turning over the bacon .
+322,subj,made,it,nsubj,"together , but it made no difference , his hair simply grew that way -- all over the place ."
+325,obj,screwed,face,dobj,"in fact , he was n't really crying -- it had been years since he 'd really cried -- but he knew that if he screwed up his face and wailed , his mother would give him anything he wanted ."
+325,subj,give,mother,nsubj,"in fact , he was n't really crying -- it had been years since he 'd really cried -- but he knew that if he screwed up his face and wailed , his mother would give him anything he wanted ."
+330,obj,telling,them,dobj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+330,subj,seemed,they,nsubj,"if there was one thing the dursleys hated even more than his asking questions , it was his talking about anything acting in a way it should n't , no matter if it was in a dream or even a cartoon -- they seemed to think he might get dangerous ideas ."
+330,subj,watched,they,nsubj,"it was n't bad , either , harry thought , licking it as they watched a gorilla scratching its head who looked remarkably like dudley , except that it was n't blond ."
+330,subj,ate,they,nsubj,"they ate in the zoo restaurant , and when dudley had a tantrum because his knickerbocker glory did n't have enough ice cream on top , uncle vernon bought him another one and harry was allowed to finish the first ."
+330,subj,went,they,nsubj,after lunch they went to the reptile house .
+331,obj,wants,worth,dobj,"`` little tyke wants his money 's worth , just like his father ."
+332,obj,answer,it,dobj,"at that moment the telephone rang and aunt petunia went to answer it while harry and uncle vernon watched dudley unwrap the racing bike , a video camera , a remote control airplane , sixteen new computer games , and a vcr ."
+334,subj,took,parents,nsubj,"every year on dudley 's birthday , his parents took him and a friend out for the day , to adventure parks , hamburger restaurants , or the movies ."
+336,obj,adventure,parks,dobj,"every year on dudley 's birthday , his parents took him and a friend out for the day , to adventure parks , hamburger restaurants , or the movies ."
+338,obj,lived,streets,dobj,"every year , harry was left behind with mrs. figg , a mad old lady who lived two streets away ."
+338,subj,lived,who,nsubj,"every year , harry was left behind with mrs. figg , a mad old lady who lived two streets away ."
+339,obj,hated,it,dobj,harry hated it there .
+340,subj,smelled,house,nsubj,the whole house smelled of cabbage and mrs. figg made him look at photographs of all the cats she 'd ever owned .
+344,obj,reminded,himself,dobj,"harry knew he ought to feel sorry that mrs. figg had broken her leg , but it was n't easy when he reminded himself it would be a whole year before he had to look at tibbles , snowy , mr. paws , and tufty again ."
+348,obj,leave,me,dobj,"`` you could just leave me here , '' harry put in hopefully ( he 'd be able to watch what he wanted on television for a change and maybe even have a go on dudley 's computer ) ."
+350,obj,find,house,dobj,`` and come back and find the house in ruins ? ''
+353,subj,left,they,nsubj,"his aunt and uncle had n't been able to think of anything else to do with him , but before they 'd left , uncle vernon had taken harry aside ."
+353,subj,hated,dursleys,nsubj,"if there was one thing the dursleys hated even more than his asking questions , it was his talking about anything acting in a way it should n't , no matter if it was in a dream or even a cartoon -- they seemed to think he might get dangerous ideas ."
+357,subj,grin,harry,nsubj,he shot harry a nasty grin through the gap in his mother 's arms .
+359,obj,hit,them,dobj,he was usually the one who held people 's arms behind their backs while dudley hit them .
+359,subj,happen,them,nsubj,"the problem was , strange things often happened around harry and it was just no good telling the dursleys he did n't make them happen ."
+359,subj,bought,they,nsubj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+360,subj,walked,friend,nsubj,"said aunt petunia frantically -- and a moment later , dudley 's best friend , piers polkiss , walked in with his mother ."
+362,subj,held,who,nsubj,he was usually the one who held people 's arms behind their backs while dudley hit them .
+368,subj,left,she,nsubj,"once , aunt petunia , tired of harry coming back from the barbers looking as though he had n't been at all , had taken a pair of kitchen scissors and cut his hair so short he was almost bald except for his bangs , which she left `` to hide that horrible scar . ''"
+368,subj,faint,she,nsubj,for a moment it looked as though she might faint .
+368,subj,clutched,she,nsubj,she clutched her throat and made a choking noise .
+368,subj,heard,they,nsubj,they heard him banging things with his smelting stick all the way down the hall .
+369,obj,laughed,himself,dobj,"dudley had laughed himself silly at harry , who spent a sleepless night imagining school the next day , where he was already laughed at for his baggy clothes and taped glasses ."
+369,obj,know,him,dobj,yet sometimes he thought ( or maybe hoped ) that strangers in the street seemed to know him .
+369,subj,laughed,dudley,nsubj,"dudley had laughed himself silly at harry , who spent a sleepless night imagining school the next day , where he was already laughed at for his baggy clothes and taped glasses ."
+369,subj,laughed,he,nsubjpass,"dudley had laughed himself silly at harry , who spent a sleepless night imagining school the next day , where he was already laughed at for his baggy clothes and taped glasses ."
+369,subj,gotten,he,nsubj,"next morning , however , he had gotten up to find his hair exactly as it had been before aunt petunia had sheared it off he had been given a week in his cupboard for this , even though he had tried to explain that he could n't explain how it had grown back so quickly ."
+369,subj,risk,he,nsubj,"until they were , he could n't risk sneaking to the kitchen for some food ."
+369,subj,strained,he,nsubj,"sometimes , when he strained his memory during long hours in his cupboard , he came up with a strange vision : a blinding flash of green light and a burn- ing pain on his forehead ."
+369,subj,came,he,nsubj,"sometimes , when he strained his memory during long hours in his cupboard , he came up with a strange vision : a blinding flash of green light and a burn- ing pain on his forehead ."
+369,subj,supposed,he,nsubj,"this , he supposed , was the crash , though he could n't imagine where all the green light came from ."
+369,subj,remember,he,nsubj,he could n't remember his parents at all .
+369,subj,forbidden,he,nsubjpass,"his aunt and uncle never spoke about them , and of course he was forbidden to ask questions ."
+369,subj,thought,he,nsubj,yet sometimes he thought ( or maybe hoped ) that strangers in the street seemed to know him .
+369,subj,allowed,he,nsubjpass,"by the time he was allowed out of his cupboard again , the summer holidays had started and dudley had already broken his new video camera , crashed his remote control airplane , and , first time out on his racing bike , knocked down old mrs. figg as she crossed privet drive on her crutches ."
+369,subj,looked,he,nsubj,"as he looked at dudley in his new knickerbockers , uncle vernon said gruffly that it was the proudest moment of his life ."
+369,subj,thought,he,nsubj,he thought two of his ribs might already have cracked from trying not to laugh .
+369,subj,went,he,nsubj,he went to have a look .
+369,subj,asked,he,nsubj,he asked aunt petunia .
+369,subj,dared,he,nsubj,her lips tightened as they always did if he dared to ask a question .
+369,subj,chuckled,he,nsubj,he chuckled at his own joke .
+369,subj,gave,he,nsubj,he gave his father a sharp tap on the head with his smelting stick .
+372,obj,sheared,it,dobj,"next morning , however , he had gotten up to find his hair exactly as it had been before aunt petunia had sheared it off he had been given a week in his cupboard for this , even though he had tried to explain that he could n't explain how it had grown back so quickly ."
+373,subj,grown,it,nsubj,"next morning , however , he had gotten up to find his hair exactly as it had been before aunt petunia had sheared it off he had been given a week in his cupboard for this , even though he had tried to explain that he could n't explain how it had grown back so quickly ."
+374,obj,pull,it,dobj,"another time , aunt petunia had been trying to force him into a revolting old sweater of dudley 's ( brown with orange puff balls ) -- the harder she tried to pull it over his head , the smaller it seemed to become , until finally it might have fitted a hand puppet , but certainly would n't fit harry ."
+375,subj,seemed,it,nsubj,"another time , aunt petunia had been trying to force him into a revolting old sweater of dudley 's ( brown with orange puff balls ) -- the harder she tried to pull it over his head , the smaller it seemed to become , until finally it might have fitted a hand puppet , but certainly would n't fit harry ."
+376,subj,shrunk,it,nsubj,"aunt petunia had decided it must have shrunk in the wash and , to his great relief , harry was n't punished ."
+377,obj,chasing,him,dobj,"dudley 's gang had been chasing him as usual when , as much to harry 's surprise as anyone else 's , there he was sitting on the chimney ."
+377,subj,punished,harry,nsubjpass,"aunt petunia had decided it must have shrunk in the wash and , to his great relief , harry was n't punished ."
+379,subj,chasing,gang,nsubj,"dudley 's gang had been chasing him as usual when , as much to harry 's surprise as anyone else 's , there he was sitting on the chimney ."
+382,subj,received,dursleys,nsubj,the dursleys had received a very angry letter from harry 's headmistress telling them harry had been climbing school buildings .
+384,obj,climbing,buildings,dobj,the dursleys had received a very angry letter from harry 's headmistress telling them harry had been climbing school buildings .
+397,subj,crashed,vernon,nsubj,uncle vernon nearly crashed into the car in front .
+401,subj,should,it,nsubj,"if there was one thing the dursleys hated even more than his asking questions , it was his talking about anything acting in a way it should n't , no matter if it was in a dream or even a cartoon -- they seemed to think he might get dangerous ideas ."
+403,subj,crowded,zoo,nsubjpass,it was a very sunny saturday and the zoo was crowded with families .
+405,obj,bought,dudley,dobj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+405,subj,bought,dursleys,nsubj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+406,subj,asked,lady,nsubj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+407,obj,wanted,what,dobj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+408,subj,hurry,they,nsubj,"the dursleys bought dudley and piers large chocolate ice creams at the entrance and then , because the smiling lady in the van had asked harry what he wanted before they could hurry him away , they bought him a cheap lemon ice pop ."
+409,obj,licking,it,dobj,"it was n't bad , either , harry thought , licking it as they watched a gorilla scratching its head who looked remarkably like dudley , except that it was n't blond ."
+410,subj,starting,who,nsubj,"he was careful to walk a little way apart from the dursleys so that dudley and piers , who were starting to get bored with the animals by lunchtime , would n't fall back on their favorite hobby of hitting him ."
+411,subj,allowed,one,nsubjpass,"they ate in the zoo restaurant , and when dudley had a tantrum because his knickerbocker glory did n't have enough ice cream on top , uncle vernon bought him another one and harry was allowed to finish the first ."
+416,obj,found,snake,dobj,dudley quickly found the largest snake in the place .
+419,obj,crushed,it,dobj,it could have wrapped its body twice around uncle vernon 's car and crushed it into a trash can -- but at the moment it did n't look in the mood .
+422,subj,budge,snake,nsubj,"uncle vernon tapped on the glass , but the snake did n't budge ."
+425,subj,died,it,nsubj,he would n't have been surprised if it had died of boredom itself -- no company except stupid people drumming their fingers on the glass trying to disturb it all day long .
+429,obj,disturb,it,dobj,he would n't have been surprised if it had died of boredom itself -- no company except stupid people drumming their fingers on the glass trying to disturb it all day long .
+430,obj,having,cupboard,dobj,"it was worse than having a cupboard as a bedroom , where the only visitor was aunt petunia hammering on the door to wake you up ; at least he got to visit the rest of the house ."
+432,obj,wake,you,dobj,"it was worse than having a cupboard as a bedroom , where the only visitor was aunt petunia hammering on the door to wake you up ; at least he got to visit the rest of the house ."
+433,obj,visit,rest,dobj,"it was worse than having a cupboard as a bedroom , where the only visitor was aunt petunia hammering on the door to wake you up ; at least he got to visit the rest of the house ."
+435,subj,watching,anyone,nsubj,then he looked quickly around to see if anyone was watching .
+442,obj,rushed,them,dobj,"after asking harry furiously if he knew the man , aunt petunia had rushed them out of the shop without buying anything ."
+442,subj,seemed,they,nsubj,the weirdest thing about all these people was the way they seemed to vanish the second harry tried to get a closer look .
+444,obj,doing,what,dobj,you wo n't believe what it 's doing ! ''
+445,obj,punching,harry,dobj,"`` out of the way , you , '' he said , punching harry in the ribs ."
+446,subj,happened,what,nsubj,"what came next happened so fast no one saw how it happened -- one second , piers and dudley were leaning right up close to the glass , the next , they had leapt back with howls of horror ."
+447,subj,saw,one,nsubj,"what came next happened so fast no one saw how it happened -- one second , piers and dudley were leaning right up close to the glass , the next , they had leapt back with howls of horror ."
+448,subj,happened,it,nsubj,"what came next happened so fast no one saw how it happened -- one second , piers and dudley were leaning right up close to the glass , the next , they had leapt back with howls of horror ."
+450,subj,screamed,people,nsubj,people throughout the reptile house screamed and started running for the exits .
+453,obj,could,gibber,dobj,piers and dudley could only gibber .
+453,subj,could,piers,nsubj,piers and dudley could only gibber .
+454,subj,done,snake,nsubj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+455,subj,passed,it,nsubj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+456,obj,knew,man,dobj,"after asking harry furiously if he knew the man , aunt petunia had rushed them out of the shop without buying anything ."
+456,subj,waited,vernon,nsubj,uncle vernon waited until piers was safely out of the house before starting on harry .
+456,subj,know,he,nsubj,he did n't know what time it was and he could n't be sure the dursleys were asleep yet .
+457,subj,tried,it,nsubj,"as far as harry had seen , the snake had n't done anything except snap playfully at their heels as it passed , but by the time they were all back in uncle vernon 's car , dudley was telling them how it had nearly bitten off his leg , while piers was swearing it had tried to squeeze him to death ."
+464,subj,died,parents,nsubj,"he 'd lived with the dursleys almost ten years , ten miserable years , as long as he could remember , ever since he 'd been a baby and his parents had died in that car crash ."
+465,subj,died,parents,nsubj,he could n't remember being in the car when his parents had died .
+466,obj,remember,parents,dobj,he could n't remember his parents at all .
+467,subj,spoke,aunt,nsubj,"his aunt and uncle never spoke about them , and of course he was forbidden to ask questions ."
+470,subj,happened,it,nsubj,"when he had been younger , harry had dreamed and dreamed of some unknown relation coming to take him away , but it had never happened ; the dursleys were his only family ."
+472,subj,seemed,strangers,nsubj,yet sometimes he thought ( or maybe hoped ) that strangers in the street seemed to know him .
+475,subj,bowed,man,nsubj,a tiny man in a violet top hat had bowed to him once while out shopping with aunt petunia and dudley .
+478,subj,broken,she,nsubj,"it turned out she 'd broken her leg tripping over one of her cats , and she did n't seem quite as fond of them as before ."
+478,subj,seem,she,nsubj,"it turned out she 'd broken her leg tripping over one of her cats , and she did n't seem quite as fond of them as before ."
+478,subj,let,she,nsubj,she let harry watch television and gave him a bit of chocolate cake that tasted as though she 'd had it for several years .
+478,subj,had,she,nsubj,she let harry watch television and gave him a bit of chocolate cake that tasted as though she 'd had it for several years .
+478,subj,believe,she,nsubj,"aunt petunia burst into tears and said she could n't believe it was her ickle dudleykins , he looked so handsome and grown-up ."
+480,obj,handed,uncle,dobj,"he handed uncle vernon the bill and the postcard , sat down , and slowly began to open the yellow envelope ."
+480,obj,took,harry,dobj,"roared uncle vernon , and he took both harry and dudley by the scruffs of their necks and threw them into the hall , slamming the kitchen door behind them ."
+480,obj,visited,harry,dobj,"that evening when he got back from work , uncle vernon did something he 'd never done before ; he visited harry in his cupboard ."
+480,obj,snapped,uncle,dobj,snapped his uncle .
+480,obj,told,him,dobj,he shouted at harry for about half an hour and then told him to go and make a cup of tea .
+480,obj,caught,him,dobj,something came whizzing down the kitchen chimney as he spoke and caught him sharply on the back of the head .
+480,obj,seized,harry,dobj,uncle vernon seized harry around the waist and threw him into the hall .
+480,obj,threw,him,dobj,uncle vernon seized harry around the waist and threw him into the hall .
+480,obj,hit,him,dobj,"dudley was sniffling in the back seat ; his father had hit him round the head for holding them up while he tried to pack his television , vcr , and computer in his sports bag ."
+480,obj,bought,what,dobj,"he was also carrying a long , thin package and did n't answer aunt petunia when she asked what he 'd bought ."
+480,obj,cheer,him,dobj,"harry privately agreed , though the thought did n't cheer him up at all ."
+480,obj,told,harry,dobj,"the lighted dial of dudley 's watch , which was dangling over the edge of the sofa on his fat wrist , told harry he 'd be eleven in ten minutes ' time ."
+480,obj,thank,you,dobj,"he meant to say thank you , but the words got lost on the way to his mouth , and what he said instead was , `` who are you ? ''"
+480,obj,doing,what,dobj,"he bent down over the fireplace ; they could n't see what he was doing but when he drew back a second later , there was a roaring fire there ."
+480,obj,asked,harry,dobj,asked harry .
+480,obj,forbid,you,dobj,i forbid you to tell the boy anything ! ''
+480,obj,forbid,you,dobj,i forbid you ! ''
+480,obj,told,me,dobj,you told me they died in a car crash ! ''
+480,obj,watching,him,dobj,hagrid was watching him sadly .
+480,obj,flattened,himself,dobj,"in danger of being speared on the end of an umbrella by a bearded giant , uncle vernon 's courage failed again ; he flattened himself against the wall and fell silent ."
+480,obj,kill,you,dobj,same night he tried ter kill you .
+480,obj,lock,him,dobj,"he 'd spent his life being clouted by dudley , and bullied by aunt petunia and uncle vernon ; if he was really a wizard , why had n't they been turned into warty toads every time they 'd tried to lock him in his cupboard ?"
+480,obj,kick,him,dobj,"if he 'd once defeated the greatest sorcerer in the world , how come dudley had always been able to kick him around like a football ?"
+480,obj,found,himself,dobj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+480,obj,asked,harry,dobj,asked harry .
+480,obj,trust,me,dobj,"fetchin ' you gettin ' things from gringotts -- knows he can trust me , see ."
+480,obj,stop,himself,dobj,"harry asked , before he could stop himself ."
+480,obj,mind,you,dobj,"even professor quirrell was tremblin ' ter meet yeh -- mind you , he 's usually tremblin ' . ''"
+480,obj,trusted,me,dobj,dumbledore 's trusted me .
+480,obj,mean,what,dobj,"`` they were a witch and wizard , if that 's what you mean . ''"
+480,obj,find,me,dobj,"any problems with the dursleys , send me a letter with yer owl , she 'll know where to find me ... . see yeh soon , harry . ''"
+480,obj,take,you,dobj,"all right , we 'll take you to king 's cross ."
+480,subj,shaken,man,nsubj,a bald man in a very long purple coat had actually shaken his hand in the street the other day and then walked away without a word .
+480,subj,looked,he,nsubj,"aunt petunia burst into tears and said she could n't believe it was her ickle dudleykins , he looked so handsome and grown-up ."
+480,subj,carried,he,nsubj,"uncle vernon opened his newspaper as usual and dudley banged his smelting stick , which he carried everywhere , on the table ."
+480,subj,went,harry,nsubj,"harry went back to the kitchen , still staring at his letter ."
+480,subj,said,harry,nsubj,"said harry , trying to snatch it back ."
+480,subj,gasped,he,nsubj,he gasped .
+480,subj,said,harry,nsubj,"want to read it , '' said harry furiously , `` as it 's mine . ''"
+480,subj,move,harry,nsubj,harry did n't move .
+480,subj,shouted,he,nsubj,he shouted .
+480,subj,took,he,nsubj,"roared uncle vernon , and he took both harry and dudley by the scruffs of their necks and threw them into the hall , slamming the kitchen door behind them ."
+480,subj,see,harry,nsubj,harry could see uncle vernon 's shiny black shoes pacing up and down the kitchen .
+480,subj,got,he,nsubj,"that evening when he got back from work , uncle vernon did something he 'd never done before ; he visited harry in his cupboard ."
+480,subj,done,he,nsubj,"that evening when he got back from work , uncle vernon did something he 'd never done before ; he visited harry in his cupboard ."
+480,subj,squeezed,harry,nsubj,"said harry , the moment uncle vernon had squeezed through the door ."
+480,subj,writing,who,nsubj,`` who 's writing to me ? ''
+480,subj,addressed,it,nsubjpass,"it was addressed to you by mistake , '' said uncle vernon shortly ."
+480,subj,took,he,nsubj,"he took a few deep breaths and then forced his face into a smile , which looked quite painful ."
+480,subj,getting,you,nsubj,your aunt and i have been thinking ... you 're really getting a bit big for it ... we think it might be nice if you moved into dudley 's second bedroom .
+480,subj,moved,you,nsubj,your aunt and i have been thinking ... you 're really getting a bit big for it ... we think it might be nice if you moved into dudley 's second bedroom .
+480,subj,said,harry,nsubj,said harry .
+480,subj,owned,he,nsubj,it only took harry one trip upstairs to move everything he owned from the cupboard to this room .
+480,subj,sighed,harry,nsubj,harry sighed and stretched out on the bed .
+480,subj,thinking,harry,nsubj,harry was thinking about this time yesterday and bitterly wishing he 'd opened the letter in the hall .
+480,subj,opened,he,nsubj,harry was thinking about this time yesterday and bitterly wishing he 'd opened the letter in the hall .
+480,subj,seemed,who,nsubj,"when the mail arrived , uncle vernon , who seemed to be trying to be nice to harry , made dudley go and get it ."
+480,subj,made,vernon,nsubj,"when the mail arrived , uncle vernon , who seemed to be trying to be nice to harry , made dudley go and get it ."
+480,subj,grabbed,harry,nsubj,"uncle vernon had to wrestle dudley to the ground to get the letter from him , which was made difficult by the fact that harry had grabbed uncle vernon around the neck from behind ."
+480,subj,walked,harry,nsubj,harry walked round and round his new room .
+480,subj,turned,harry,nsubj,harry turned it off quickly and dressed silently .
+480,subj,wake,he,nsubj,he must n't wake the dursleys .
+480,subj,lying,vernon,nsubj,"uncle vernon had been lying at the foot of the front door in a sleeping bag , clearly making sure that harry did n't do exactly what he 'd been trying to do ."
+480,subj,trying,he,nsubj,"uncle vernon had been lying at the foot of the front door in a sleeping bag , clearly making sure that harry did n't do exactly what he 'd been trying to do ."
+480,subj,shouted,he,nsubj,he shouted at harry for about half an hour and then told him to go and make a cup of tea .
+480,subj,shuffled,harry,nsubj,"harry shuffled miserably off into the kitchen and by the time he got back , the mail had arrived , right into uncle vernon 's lap ."
+480,subj,got,he,nsubj,"harry shuffled miserably off into the kitchen and by the time he got back , the mail had arrived , right into uncle vernon 's lap ."
+480,subj,see,harry,nsubj,harry could see three letters addressed in green ink .
+480,subj,began,he,nsubj,"i want -- '' he began , but uncle vernon was tearing the letters into pieces before his eyes ."
+480,subj,stayed,he,nsubj,he stayed at home and nailed up the mail slot .
+480,subj,stayed,vernon,nsubj,uncle vernon stayed at home again .
+480,subj,got,he,nsubj,"after burning all the letters , he got out a hammer and nails and boarded up the cracks around the front and back doors so no one could go out ."
+480,subj,sat,vernon,nsubj,"on sunday morning , uncle vernon sat down at the breakfast table looking tired and rather ill , but happy ."
+480,subj,spoke,he,nsubj,something came whizzing down the kitchen chimney as he spoke and caught him sharply on the back of the head .
+480,subj,seized,vernon,nsubj,uncle vernon seized harry around the waist and threw him into the hall .
+480,subj,looked,he,nsubj,he looked so dangerous with half his mustache missing that no one dared argue .
+480,subj,tried,he,nsubj,"dudley was sniffling in the back seat ; his father had hit him round the head for holding them up while he tried to pack his television , vcr , and computer in his sports bag ."
+480,subj,had,he,nsubj,he 'd never had such a bad day in his life .
+480,subj,stopped,vernon,nsubj,uncle vernon stopped at last outside a gloomy-looking hotel on the outskirts of a big city .
+480,subj,stayed,harry,nsubj,"dudley snored but harry stayed awake , sitting on the windowsill , staring down at the lights of passing cars and wondering ... ."
+480,subj,looking,he,nsubj,"exactly what he was looking for , none of them knew ."
+480,subj,started,it,nsubj,it started to rain .
+480,subj,smiling,he,nsubj,uncle vernon was back and he was smiling .
+480,subj,carrying,he,nsubj,"he was also carrying a long , thin package and did n't answer aunt petunia when she asked what he 'd bought ."
+480,subj,bought,he,nsubj,"he was also carrying a long , thin package and did n't answer aunt petunia when she asked what he 'd bought ."
+480,subj,said,he,nsubj,he said .
+480,subj,agreed,gentleman,nsubj,`` and this gentleman 's kindly agreed to lend us his boat ! ''
+480,subj,came,man,nsubj,"a toothless old man came ambling up to them , pointing , with a rather wicked grin , at an old rowboat bobbing in the iron-gray water below them ."
+480,subj,tried,he,nsubj,he tried to start a fire but the empty chip bags just smoked and shriveled up .
+480,subj,said,he,nsubj,he said cheerfully .
+480,subj,agreed,harry,nsubj,"harry privately agreed , though the thought did n't cheer him up at all ."
+480,subj,left,harry,nsubjpass,"she and uncle vernon went off to the lumpy bed next door , and harry was left to find the softest bit of floor he could and to curl up under the thinnest , most ragged blanket ."
+480,subj,could,he,nsubj,"she and uncle vernon went off to the lumpy bed next door , and harry was left to find the softest bit of floor he could and to curl up under the thinnest , most ragged blanket ."
+480,subj,shivered,he,nsubj,"he shivered and turned over , trying to get comfortable , his stomach rumbling with hunger ."
+480,subj,lay,he,nsubj,"he lay and watched his birthday tick nearer , wondering if the dursleys would remember at all , wondering where the letter writer was now ."
+480,subj,heard,harry,nsubj,harry heard something creak outside .
+480,subj,hoped,he,nsubj,"he hoped the roof was n't going to fall in , although he might be warmer if it did ."
+480,subj,said,he,nsubj,he said stupidly .
+480,subj,holding,he,nsubj,"he was holding a rifle in his hands -- now they knew what had been in the long , thin package he had brought with them ."
+480,subj,shouted,he,nsubj,he shouted .
+480,subj,bent,he,nsubj,"he bent down , picked up the door , and fitted it easily back into its frame ."
+480,subj,turned,he,nsubj,he turned to look at them all .
+480,subj,strode,he,nsubj,he strode over to the sofa where dudley sat frozen with fear .
+480,subj,looked,harry,nsubj,"harry looked up into the fierce , wild , shadowy face and saw that the beetle eyes were crinkled in a smile ."
+480,subj,leave,you,nsubj,"i demand that you leave at once , sit ! ''"
+480,subj,said,he,nsubj,he said .
+480,subj,made,vernon,nsubj,"uncle vernon made another funny noise , like a mouse being trodden on ."
+480,subj,pulled,he,nsubj,from an inside pocket of his black overcoat he pulled a slightly squashed box .
+480,subj,opened,harry,nsubj,harry opened it with trembling fingers .
+480,subj,looked,harry,nsubj,harry looked up at the giant .
+480,subj,meant,he,nsubj,"he meant to say thank you , but the words got lost on the way to his mouth , and what he said instead was , `` who are you ? ''"
+480,subj,said,he,nsubj,"he meant to say thank you , but the words got lost on the way to his mouth , and what he said instead was , `` who are you ? ''"
+480,subj,chuckled,giant,nsubj,the giant chuckled .
+480,subj,said,he,nsubj,"he said , rubbing his hands together ."
+480,subj,snorted,he,nsubj,his eyes fell on the empty grate with the shriveled chip bags in it and he snorted .
+480,subj,bent,he,nsubj,"he bent down over the fireplace ; they could n't see what he was doing but when he drew back a second later , there was a roaring fire there ."
+480,subj,doing,he,nsubj,"he bent down over the fireplace ; they could n't see what he was doing but when he drew back a second later , there was a roaring fire there ."
+480,subj,sunk,he,nsubj,it filled the whole damp hut with flickering light and harry felt the warmth wash over him as though he 'd sunk into a hot bath .
+480,subj,sat,giant,nsubj,"the giant sat back down on the sofa , which sagged under his weight , and began taking all sorts of things out of the pockets of his coat : a copper kettle , a squashy package of sausages , a poker , a teapot , several chipped mugs , and a bottle of some amber liquid that he took a swig from before starting to make tea ."
+480,subj,sagged,which,nsubj,"the giant sat back down on the sofa , which sagged under his weight , and began taking all sorts of things out of the pockets of his coat : a copper kettle , a squashy package of sausages , a poker , a teapot , several chipped mugs , and a bottle of some amber liquid that he took a swig from before starting to make tea ."
+480,subj,took,he,nsubj,"the giant sat back down on the sofa , which sagged under his weight , and began taking all sorts of things out of the pockets of his coat : a copper kettle , a squashy package of sausages , a poker , a teapot , several chipped mugs , and a bottle of some amber liquid that he took a swig from before starting to make tea ."
+480,subj,slid,he,nsubj,"nobody said a thing while the giant was working , but as he slid the first six fat , juicy , slightly burnt sausages from the poker , dudley fidgeted a little ."
+480,subj,passed,he,nsubj,"he passed the sausages to harry , who was so hungry he had never tasted anything so wonderful , but he still could n't take his eyes off the giant ."
+480,subj,tasted,he,nsubj,"he passed the sausages to harry , who was so hungry he had never tasted anything so wonderful , but he still could n't take his eyes off the giant ."
+480,subj,said,he,nsubj,"finally , as nobody seemed about to explain anything , he said , `` i 'm sorry , but i still do n't really know who you are . ''"
+480,subj,thought,harry,nsubj,harry thought this was going a bit far .
+480,subj,gone,who,nsubj,"uncle vernon , who had gone very pale , whispered something that sounded like `` mimblewimble . ''"
+480,subj,said,he,nsubj,he said finally .
+480,subj,said,harry,nsubj,said harry eagerly .
+480,subj,stretched,harry,nsubj,"harry stretched out his hand at last to take the yellowish envelope , addressed in emerald green to mr. h. potter , the floor , hut-on-the-rock , the sea ."
+480,subj,pulled,he,nsubj,he pulled out the letter and read :
+480,subj,decide,he,nsubj,questions exploded inside harry 's head like fireworks and he could n't decide which to ask first .
+480,subj,stammered,he,nsubj,"after a few minutes he stammered , `` what does it mean , they await my owl ? ''"
+480,subj,read,harry,nsubj,with his tongue between his teeth he scribbled a note that harry could read upside down :
+480,subj,realized,harry,nsubj,harry realized his mouth was open and closed it quickly .
+480,subj,grew,you,nsubj,an ' it 's your bad luck you grew up in a family o ' the biggest muggles i ever laid eyes on . ''
+480,subj,said,harry,nsubj,said harry .
+480,subj,gone,harry,nsubj,harry had gone very white .
+480,subj,found,he,nsubj,"as soon as he found his voice he said , `` blown up ?"
+480,subj,said,he,nsubj,"as soon as he found his voice he said , `` blown up ?"
+480,subj,told,you,nsubj,you told me they died in a car crash ! ''
+480,subj,happened,what,nsubj,what happened ? ''
+480,subj,asked,harry,nsubj,harry asked urgently .
+480,subj,looked,he,nsubj,he looked suddenly anxious .
+480,subj,threw,he,nsubj,he threw a dirty look at the dursleys .
+480,subj,lived,you,nsubj,"no one ever lived after he decided ter kill 'em , no one except you , an ' he 'd killed some o ' the best witches an ' wizards of the age -- the mckinnons , the bones , the prewetts -- an ' you was only a baby , an ' you lived . ''"
+480,subj,saw,he,nsubj,"as hagrid 's story came to a close , he saw again the blinding flash of green light , more clearly than he had ever remembered it before -- and he remembered something else , for the first time in his life : a high , cold , cruel laugh ."
+480,subj,remembered,he,nsubj,"as hagrid 's story came to a close , he saw again the blinding flash of green light , more clearly than he had ever remembered it before -- and he remembered something else , for the first time in his life : a high , cold , cruel laugh ."
+480,subj,seemed,vernon,nsubj,uncle vernon certainly seemed to have got back his courage .
+480,subj,glaring,he,nsubj,he was glaring at hagrid and his fists were clenched .
+480,subj,said,he,nsubj,"pointing this at uncle vernon like a sword , he said , `` i 'm warning you , dursley -i 'm warning you -- one more word ... ``"
+480,subj,flattened,he,nsubj,"in danger of being speared on the end of an umbrella by a bearded giant , uncle vernon 's courage failed again ; he flattened himself against the wall and fell silent ."
+480,subj,looked,hagrid,nsubj,"hagrid looked at harry with warmth and respect blazing in his eyes , but harry , instead of feeling pleased and proud , felt quite sure there had been a horrible mistake ."
+480,subj,spent,he,nsubj,"he 'd spent his life being clouted by dudley , and bullied by aunt petunia and uncle vernon ; if he was really a wizard , why had n't they been turned into warty toads every time they 'd tried to lock him in his cupboard ?"
+480,subj,defeated,he,nsubj,"if he 'd once defeated the greatest sorcerer in the world , how come dudley had always been able to kick him around like a football ?"
+480,subj,think,i,nsubj,"`` hagrid , '' he said quietly , `` i think you must have made a mistake ."
+480,subj,came,he,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+480,subj,found,he,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+480,subj,managed,he,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+480,subj,looked,harry,nsubj,"harry looked back at hagrid , smiling , and saw that hagrid was positively beaming at him ."
+480,subj,hissed,he,nsubj,he hissed .
+480,subj,gone,he,nsubj,but he had finally gone too far .
+480,subj,brought,he,nsubj,"he brought the umbrella swishing down through the air to point at dudley -- there was a flash of violet light , a sound like a firecracker , a sharp squeal , and the next second , dudley was dancing on the spot with his hands clasped over his fat bottom , howling in pain ."
+480,subj,turned,he,nsubj,"when he turned his back on them , harry saw a curly pig 's tail poking through a hole in his trousers ."
+480,subj,saw,harry,nsubj,"when he turned his back on them , harry saw a curly pig 's tail poking through a hole in his trousers ."
+480,subj,cast,he,nsubj,"pulling aunt petunia and dudley into the other room , he cast one last terrified look at hagrid and slammed the door behind them ."
+480,subj,stay,me,nsubj,but dumbledore let me stay on as gamekeeper .
+480,subj,kept,he,nsubj,"although he could tell it was daylight , he kept his eyes shut tight ."
+480,subj,thought,he,nsubj,he had just thought of something that made him feel as though the happy balloon inside him had got a puncture .
+480,subj,learned,harry,nsubj,"harry had learned from uncle vernon that people liked to be left alone while they did this , but it was very difficult , he 'd never had so many questions in his life ."
+480,subj,had,he,nsubj,"harry had learned from uncle vernon that people liked to be left alone while they did this , but it was very difficult , he 'd never had so many questions in his life ."
+480,subj,stop,he,nsubj,"harry asked , before he could stop himself ."
+480,subj,asked,he,nsubj,he asked as he counted stitches .
+480,subj,unfolded,harry,nsubj,"harry unfolded a second piece of paper he had n't noticed the night before , and read :"
+480,subj,seek,you,nsubj,so if you seek beneath our floors
+480,subj,warned,you,nsubjpass,"thief , you have been warned , beware"
+480,subj,take,someone,nsubj,"`` very well , '' he said , handing it back to hagrid , `` i will have someone take you down to both vaults ."
+480,subj,asked,harry,nsubj,harry asked .
+480,subj,asked,harry,nsubj,harry asked .
+480,subj,destined,you,nsubjpass,"it is very curious indeed that you should be destined for this wand when its brother why , its brother gave you that scar . ''"
+483,obj,vanish,harry,dobj,the weirdest thing about all these people was the way they seemed to vanish the second harry tried to get a closer look .
+486,subj,hated,gang,nsubj,"everybody knew that dudley 's gang hated that odd harry potter in his baggy old clothes and broken glasses , and nobody liked to disagree with dudley 's gang ."
+488,subj,liked,nobody,nsubj,"everybody knew that dudley 's gang hated that odd harry potter in his baggy old clothes and broken glasses , and nobody liked to disagree with dudley 's gang ."
+491,obj,visited,house,dobj,"harry was glad school was over , but there was no escaping dudley 's gang , who visited the house every single day ."
+491,subj,visited,who,nsubj,"harry was glad school was over , but there was no escaping dudley 's gang , who visited the house every single day ."
+500,subj,going,harry,nsubj,"harry , on the other hand , was going to stonewall high , the local public school ."
+503,subj,stuff,they,nsubj,"`` they stuff people 's heads down the toilet the first day at stonewall , '' he told harry ."
+505,subj,had,toilet,nsubj,`` the poor toilet 's never had anything as horrible as your head down it -- it might be sick . ''
+508,obj,said,what,dobj,"then he ran , before dudley could work out what he 'd said ."
+509,subj,thinking,aunt,nsubj,your aunt and i have been thinking ... you 're really getting a bit big for it ... we think it might be nice if you moved into dudley 's second bedroom .
+509,subj,stared,woman,nsubj,the woman stared .
+509,subj,asked,she,nsubj,"he was also carrying a long , thin package and did n't answer aunt petunia when she asked what he 'd bought ."
+509,subj,went,she,nsubj,"she and uncle vernon went off to the lumpy bed next door , and harry was left to find the softest bit of floor he could and to curl up under the thinnest , most ragged blanket ."
+509,subj,crouching,who,nsubj,"dudley squeaked and ran to hide behind his mother , who was crouching , terrified , behind uncle vernon ."
+509,subj,wanting,she,nsubj,it seemed she had been wanting to say all this for years .
+511,obj,leaving,harry,dobj,"one day in july , aunt petunia took dudley to london to buy his smeltings uniform , leaving harry at mrs. figg 's ."
+513,subj,turned,it,nsubj,"it turned out she 'd broken her leg tripping over one of her cats , and she did n't seem quite as fond of them as before ."
+514,obj,tell,them,dobj,tell them we do n't want -- ''
+514,subj,carried,they,nsubj,"they also carried knobbly sticks , used for hitting each other while the teachers were n't looking ."
+514,subj,watching,they,nsubj,you do n't think they 're watching the house ? ''
+514,subj,touched,they,nsubjpass,they were the only things in the room that looked as though they 'd never been touched .
+514,subj,seemed,they,nsubj,someone knew he had moved out of his cupboard and they seemed to know he had n't received his first letter .
+515,obj,had,it,dobj,she let harry watch television and gave him a bit of chocolate cake that tasted as though she 'd had it for several years .
+518,subj,wore,boys,nsubj,"smeltings ' boys wore maroon tailcoats , orange knickerbockers , and flat straw hats called boaters ."
+521,subj,looked,what,nsubj,the tub was full of what looked like dirty rags swimming in gray water .
+524,subj,look,it,nsubj,it 'll look just like everyone else 's when i 've finished . ''
+527,obj,took,him,dobj,did n't we swear when we took him in we 'd stamp out that dangerous nonsense ? ''
+527,obj,put,which,dobj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+527,obj,want,him,dobj,"from downstairs came the sound of dudley bawling at his mother , i do n't want him in there ..."
+527,subj,picked,harry,nsubj,"harry picked it up and stared at it , his heart twanging like a giant elastic band ."
+527,subj,belong,he,nsubj,"he had no friends , no other relatives -- he did n't belong to the library , so he 'd never even got rude notes asking for books back ."
+527,subj,saw,harry,nsubj,"turning the envelope over , his hand trembling , harry saw a purple wax seal bearing a coat of arms ; a lion , an eagle , a badger , and a snake surrounding a large letter h ."
+527,subj,handed,he,nsubj,"he handed uncle vernon the bill and the postcard , sat down , and slowly began to open the yellow envelope ."
+527,subj,sat,he,nsubj,he sat down on the bed and stared around him .
+527,subj,given,he,nsubj,yesterday he 'd have given anything to be up here .
+527,subj,screamed,he,nsubj,"he 'd screamed , whacked his father with his smelting stick , been sick on purpose , kicked his mother , and thrown his tortoise through the greenhouse roof , and he still did n't have his room back ."
+527,subj,banging,him,nsubj,they heard him banging things with his smelting stick all the way down the hall .
+527,subj,shouted,he,nsubj,"then he shouted , `` there 's another one !"
+527,subj,moved,he,nsubj,someone knew he had moved out of his cupboard and they seemed to know he had n't received his first letter .
+527,subj,received,he,nsubj,someone knew he had moved out of his cupboard and they seemed to know he had n't received his first letter .
+527,subj,make,he,nsubj,and this time he 'd make sure they did n't fail .
+527,subj,stole,he,nsubj,he stole downstairs without turning on any of the lights .
+527,subj,going,he,nsubj,he was going to wait for the postman on the corner of privet drive and get the letters for number four first .
+527,subj,crept,he,nsubj,his heart hammered as he crept across the dark hall toward the front door --
+527,subj,trodden,he,nsubj,harry leapt into the air ; he 'd trodden on something big and squashy on the doormat -- something alive !
+527,subj,hummed,he,nsubj,"he hummed `` tiptoe through the tulips '' as he worked , and jumped at small noises ."
+529,subj,lay,things,nsubj,"three things lay on the doormat : a postcard from uncle vernon 's sister marge , who was vacationing on the isle of wight , a brown envelope that looked like a bill , and -- a letter for harry ."
+530,subj,vacationing,who,nsubj,"three things lay on the doormat : a postcard from uncle vernon 's sister marge , who was vacationing on the isle of wight , a brown envelope that looked like a bill , and -- a letter for harry ."
+531,obj,picked,it,dobj,"harry picked it up and stared at it , his heart twanging like a giant elastic band ."
+532,subj,written,one,nsubj,"no one , ever , in his whole life , had written to him ."
+533,subj,would,who,nsubj,who would ?
+541,obj,bearing,coat,dobj,"turning the envelope over , his hand trembling , harry saw a purple wax seal bearing a coat of arms ; a lion , an eagle , a badger , and a snake surrounding a large letter h ."
+541,subj,bearing,seal,nsubj,"turning the envelope over , his hand trembling , harry saw a purple wax seal bearing a coat of arms ; a lion , an eagle , a badger , and a snake surrounding a large letter h ."
+545,subj,jerked,it,nsubjpass,"harry was on the point of unfolding his letter , which was written on the same heavy parchment as the envelope , when it was jerked sharply out of his hand by uncle vernon ."
+546,subj,stop,it,nsubj,and it did n't stop there .
+548,obj,read,it,dobj,"dudley tried to grab the letter to read it , but uncle vernon held it high out of his reach ."
+549,subj,high,it,nsubj,"dudley tried to grab the letter to read it , but uncle vernon held it high out of his reach ."
+550,obj,took,it,dobj,aunt petunia took it curiously and read the first line .
+551,subj,looked,it,nsubj,for a moment it looked as though she might faint .
+552,subj,stared,they,nsubj,"they stared at each other , seeming to have forgotten that harry and dudley were still in the room ."
+554,obj,read,it,dobj,"want to read it , '' said harry furiously , `` as it 's mine . ''"
+558,obj,threw,them,dobj,"roared uncle vernon , and he took both harry and dudley by the scruffs of their necks and threw them into the hall , slamming the kitchen door behind them ."
+558,obj,holding,them,dobj,"dudley was sniffling in the back seat ; his father had hit him round the head for holding them up while he tried to pack his television , vcr , and computer in his sports bag ."
+558,subj,try,they,nsubj,surely that meant they 'd try again ?
+558,subj,fail,they,nsubj,and this time he 'd make sure they did n't fail .
+561,subj,listen,who,nsubj,"harry and dudley promptly had a furious but silent fight over who would listen at the keyhole ; dudley won , so harry , his glasses dangling from one ear , lay flat on his stomach to listen at the crack between door and floor ."
+564,obj,watching,house,dobj,you do n't think they 're watching the house ? ''
+566,obj,drove,them,dobj,"he drove them into the middle of a forest , got out , looked around , shook his head , got back in the car , and off they went again ."
+566,obj,locked,them,dobj,"uncle vernon had parked at the coast , locked them all inside the car , and disappeared ."
+566,obj,reaching,them,dobj,obviously he thought nobody stood a chance of reaching them here in a storm to deliver mail .
+566,subj,write,we,nsubj,should we write back ?
+566,subj,want,we,nsubj,tell them we do n't want -- ''
+566,subj,swear,we,nsubj,did n't we swear when we took him in we 'd stamp out that dangerous nonsense ? ''
+566,subj,going,we,nsubj,we 're going away .
+566,subj,wrenched,they,nsubj,"ten minutes later they had wrenched their way through the boarded-up doors and were in the car , speeding toward the highway ."
+566,subj,drove,they,nsubj,they drove .
+566,subj,drove,they,nsubj,and they drove .
+566,subj,going,they,nsubj,even aunt petunia did n't dare ask where they were going .
+566,subj,stop,they,nsubj,they did n't stop to eat or drink all day .
+566,subj,ate,they,nsubj,they ate stale cornflakes and cold tinned tomatoes on toast for breakfast the next day .
+566,subj,finished,they,nsubj,they had just finished when the owner of the hotel came over to their table .
+566,subj,read,they,nsubj,she held up a letter so they could read the green ink address :
+566,subj,went,they,nsubj,"he drove them into the middle of a forest , got out , looked around , shook his head , got back in the car , and off they went again ."
+566,subj,knocked,they,nsubj,they knocked again .
+566,subj,knew,they,nsubj,"he was holding a rifle in his hands -- now they knew what had been in the long , thin package he had brought with them ."
+566,subj,died,they,nsubj,you told me they died in a car crash ! ''
+569,obj,having,one,dobj,"`` i 'm not having one in the house , petunia !"
+570,subj,stamp,we,nsubj,did n't we swear when we took him in we 'd stamp out that dangerous nonsense ? ''
+576,subj,fell,couple,nsubj,"yelled uncle vernon , and a couple of spiders fell from the ceiling ."
+578,subj,think,we,nsubj,your aunt and i have been thinking ... you 're really getting a bit big for it ... we think it might be nice if you moved into dudley 's second bedroom .
+578,subj,reached,they,nsubj,"after what seemed like hours they reached the rock , where uncle vernon , slipping and sliding , led the way to the broken-down house ."
+578,subj,knew,we,nsubj,of course we knew !
+581,obj,take,stuff,dobj,"`` take this stuff upstairs , now . ''"
+586,subj,slept,dudley,nsubj,"the dursleys ' house had four bedrooms : one for uncle vernon and aunt petunia , one for visitors ( usually uncle vernon 's sister , marge ) , one where dudley slept , and one where dudley kept all the toys and things that would n't fit into his first bedroom ."
+587,subj,kept,dudley,nsubj,"the dursleys ' house had four bedrooms : one for uncle vernon and aunt petunia , one for visitors ( usually uncle vernon 's sister , marge ) , one where dudley slept , and one where dudley kept all the toys and things that would n't fit into his first bedroom ."
+589,subj,took,it,nsubj,it only took harry one trip upstairs to move everything he owned from the cupboard to this room .
+595,obj,put,foot,dobj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+595,subj,put,he,nsubj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+596,obj,held,parrot,dobj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+596,obj,swapped,that,dobj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+596,subj,held,which,nsubj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+596,subj,swapped,dudley,nsubj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+597,subj,sat,dudley,nsubj,"the month-old video camera was lying on top of a small , working tank dudley had once driven over the next door neighbor 's dog ; in the corner was dudley 's first-ever television set , which he 'd put his foot through when his favorite program had been canceled ; there was a large birdcage , which had once held a parrot that dudley had swapped at school for a real air rifle , which was up on a shelf with the end all bent because dudley had sat on it ."
+601,obj,need,room,dobj,i need that room ... make him get out ... . ''
+606,obj,whacked,father,dobj,"he 'd screamed , whacked his father with his smelting stick , been sick on purpose , kicked his mother , and thrown his tortoise through the greenhouse roof , and he still did n't have his room back ."
+607,obj,kicked,mother,dobj,"he 'd screamed , whacked his father with his smelting stick , been sick on purpose , kicked his mother , and thrown his tortoise through the greenhouse roof , and he still did n't have his room back ."
+609,obj,opened,letter,dobj,harry was thinking about this time yesterday and bitterly wishing he 'd opened the letter in the hall .
+614,subj,hit,everyone,nsubjpass,"after a minute of confused fighting , in which everyone got hit a lot by the smelting stick , uncle vernon straightened up , gasping for breath , with harry 's letter clutched in his hand ."
+616,subj,mean,i,nsubj,"`` go to your cupboard -- i mean , your bedroom , '' he wheezed at harry ."
+617,obj,round,room,dobj,harry walked round and round his new room .
+618,obj,turned,it,dobj,harry turned it off quickly and dressed silently .
+633,subj,go,they,nsubj,"as they could n't go through the mail slot they had been pushed under the door , slotted through the sides , and a few even forced through the small window in the downstairs bathroom ."
+634,subj,pushed,they,nsubjpass,"as they could n't go through the mail slot they had been pushed under the door , slotted through the sides , and a few even forced through the small window in the downstairs bathroom ."
+634,subj,forced,few,nsubj,"as they could n't go through the mail slot they had been pushed under the door , slotted through the sides , and a few even forced through the small window in the downstairs bathroom ."
+636,subj,go,one,nsubj,"after burning all the letters , he got out a hammer and nails and boarded up the cracks around the front and back doors so no one could go out ."
+637,subj,found,letters,nsubj,"twenty-four letters to harry found their way into the house , rolled up and hidden inside each of the two dozen eggs that their very confused milkman had handed aunt petunia through the living room window ."
+638,obj,found,way,dobj,"twenty-four letters to harry found their way into the house , rolled up and hidden inside each of the two dozen eggs that their very confused milkman had handed aunt petunia through the living room window ."
+639,obj,handed,petunia,dobj,"twenty-four letters to harry found their way into the house , rolled up and hidden inside each of the two dozen eggs that their very confused milkman had handed aunt petunia through the living room window ."
+641,obj,asked,harry,dobj,dudley asked harry in amazement .
+641,subj,wants,who,nsubj,`` who on earth wants to talk to you this badly ? ''
+645,subj,hear,they,nsubj,"they could hear the letters still streaming into the room , bouncing off the walls and floor ."
+646,subj,streaming,letters,nsubj,"they could hear the letters still streaming into the room , bouncing off the walls and floor ."
+648,subj,dared,one,nsubj,he looked so dangerous with half his mustache missing that no one dared argue .
+650,subj,hit,father,nsubj,"dudley was sniffling in the back seat ; his father had hit him round the head for holding them up while he tried to pack his television , vcr , and computer in his sports bag ."
+651,obj,hear,her,dobj,"aunt petunia suggested timidly , hours later , but uncle vernon did n't seem to hear her ."
+651,subj,held,she,nsubj,she held up a letter so they could read the green ink address :
+653,obj,blowing,alien,dobj,"he was hungry , he 'd missed five television programs he 'd wanted to see , and he 'd never gone so long without blowing up an alien on his computer ."
+655,obj,shared,room,dobj,"dudley and harry shared a room with twin beds and damp , musty sheets ."
+656,obj,made,grab,dobj,harry made a grab for the letter but uncle vernon knocked his hand out of the way .
+656,obj,annoy,him,dobj,"thirty seconds ... twenty ... ten ... nine -- maybe he 'd wake dudley up , just to annoy him -- three ... two ... one ..."
+656,obj,gave,him,dobj,"a braver man than vernon dursley would have quailed under the furious look hagrid now gave him ; when hagrid spoke , his every syllable trembled with rage ."
+656,obj,told,him,dobj,never told him what was in the letter dumbledore left fer him ?
+656,obj,finished,him,dobj,"'cause somethin ' about you finished him , harry ."
+656,obj,stumped,him,dobj,"there was somethin ' goin ' on that night he had n't counted on -- i dunno what it was , no one does -- but somethin ' about you stumped him , all right . ''"
+656,obj,turn,him,dobj,"meant ter turn him into a pig , but i suppose he was so much like a pig anyway there was n't much left ter do . ''"
+656,subj,came,owner,nsubj,they had just finished when the owner of the hotel came over to their table .
+656,subj,made,harry,nsubj,harry made a grab for the letter but uncle vernon knocked his hand out of the way .
+656,subj,knocked,vernon,nsubj,harry made a grab for the letter but uncle vernon knocked his hand out of the way .
+656,subj,drove,he,nsubj,"he drove them into the middle of a forest , got out , looked around , shook his head , got back in the car , and off they went again ."
+656,subj,thought,he,nsubj,obviously he thought nobody stood a chance of reaching them here in a storm to deliver mail .
+656,subj,sleep,harry,nsubj,harry could n't sleep .
+656,subj,wake,he,nsubj,"thirty seconds ... twenty ... ten ... nine -- maybe he 'd wake dudley up , just to annoy him -- three ... two ... one ..."
+656,subj,brought,he,nsubj,"he was holding a rifle in his hands -- now they knew what had been in the long , thin package he had brought with them ."
+656,subj,swung,it,nsubj,the door was hit with such force that it swung clean off its hinges and with a deafening crash landed flat on the floor .
+656,subj,standing,giant,nsubj,a giant of a man was standing in the doorway .
+656,subj,held,he,nsubj,he held out an enormous hand and shook harry 's whole arm .
+656,subj,chuckled,giant,nsubj,the giant chuckled darkly .
+656,subj,seemed,he,nsubj,in his anger he seemed to fill the whole hut .
+656,subj,boomed,he,nsubj,he boomed .
+656,subj,commanded,he,nsubj,he commanded .
+656,subj,scribbled,he,nsubj,with his tongue between his teeth he scribbled a note that harry could read upside down :
+656,subj,came,he,nsubj,then he came back and sat down as though this was as normal as talking on the telephone .
+656,subj,sat,he,nsubj,"he sat down , stared into the fire for a few seconds , and then said , `` it begins , i suppose , with -- with a person called -- but it 's incredible yeh do n't know his name , everyone in our world knows -- ''"
+656,subj,turned,he,nsubj,"all anyone knows is , he turned up in the village where you was all living , on halloween ten years ago ."
+656,subj,came,he,nsubj,he came ter yer house an ' -- an ' -- ''
+656,subj,tried,he,nsubj,"an ' then -- an ' this is the real myst'ry of the thing -- he tried to kill you , too ."
+656,subj,liked,he,nsubj,"wanted ter make a clean job of it , i suppose , or maybe he just liked killin ' by then ."
+656,subj,decided,he,nsubj,"no one ever lived after he decided ter kill 'em , no one except you , an ' he 'd killed some o ' the best witches an ' wizards of the age -- the mckinnons , the bones , the prewetts -- an ' you was only a baby , an ' you lived . ''"
+656,subj,killed,he,nsubj,"no one ever lived after he decided ter kill 'em , no one except you , an ' he 'd killed some o ' the best witches an ' wizards of the age -- the mckinnons , the bones , the prewetts -- an ' you was only a baby , an ' you lived . ''"
+656,subj,tried,he,nsubj,same night he tried ter kill you .
+656,subj,counted,he,nsubj,"there was somethin ' goin ' on that night he had n't counted on -- i dunno what it was , no one does -- but somethin ' about you stumped him , all right . ''"
+656,subj,flying,him,nsubj,"they settled down in the boat , harry still staring at hagrid , trying to imagine him flying ."
+666,subj,parked,vernon,nsubj,"uncle vernon had parked at the coast , locked them all inside the car , and disappeared ."
+667,subj,beat,drops,nsubj,great drops beat on the roof of the car .
+670,subj,count,you,nsubj,"if it was monday -- and you could usually count on dudley to know the days the week , because of television -- then tomorrow , tuesday , was harry 's eleventh birthday ."
+675,subj,looked,what,nsubj,uncle vernon was pointing at what looked like a large rock way out at sea .
+678,subj,imagine,you,nsubj,perched on top of the rock was the most miserable little shack you could imagine .
+681,subj,freezing,it,nsubj,it was freezing in the boat .
+682,subj,seemed,what,nsubj,"after what seemed like hours they reached the rock , where uncle vernon , slipping and sliding , led the way to the broken-down house ."
+683,obj,reached,rock,dobj,"after what seemed like hours they reached the rock , where uncle vernon , slipping and sliding , led the way to the broken-down house ."
+683,subj,led,vernon,nsubj,"after what seemed like hours they reached the rock , where uncle vernon , slipping and sliding , led the way to the broken-down house ."
+684,obj,led,way,dobj,"after what seemed like hours they reached the rock , where uncle vernon , slipping and sliding , led the way to the broken-down house ."
+685,subj,smelled,it,nsubj,"the inside was horrible ; it smelled strongly of seaweed , the wind whistled through the gaps in the wooden walls , and the fireplace was damp and empty ."
+687,subj,stood,nobody,nsubj,obviously he thought nobody stood a chance of reaching them here in a storm to deliver mail .
+688,obj,splattered,walls,dobj,spray from the high waves splattered the walls of the hut and a fierce wind rattled the filthy windows .
+689,obj,made,bed,dobj,aunt petunia found a few moldy blankets in the second room and made up a bed for dudley on the moth-eaten sofa .
+690,subj,started,that,nsubj,dudley 's snores were drowned by the low rolls of thunder that started near midnight .
+691,subj,dangling,which,nsubj,"the lighted dial of dudley 's watch , which was dangling over the edge of the sofa on his fat wrist , told harry he 'd be eleven in ten minutes ' time ."
+691,subj,told,dial,nsubj,"the lighted dial of dudley 's watch , which was dangling over the edge of the sofa on his fat wrist , told harry he 'd be eleven in ten minutes ' time ."
+692,subj,remember,dursleys,nsubj,"he lay and watched his birthday tick nearer , wondering if the dursleys would remember at all , wondering where the letter writer was now ."
+695,subj,got,they,nsubj,maybe the house in privet drive would be so full of letters when they got back that he 'd be able to steal one somehow .
+697,subj,crumbling,rock,nsubj,was the rock crumbling into the sea ?
+699,obj,given,harry,pobj,given harry his letter .
+699,obj,given,letter,dobj,given harry his letter .
+699,obj,taking,him,dobj,taking him to buy his things tomorrow .
+699,subj,moved,vernon,nsubj,"said hagrid , but at that moment , uncle vernon , still ashen-faced but looking very angry , moved into the firelight ."
+705,subj,make,you,nsubj,"his face was almost completely hidden by a long , shaggy mane of hair and a wild , tangled beard , but you could make out his eyes , glinting like black beetles under all the hair ."
+707,obj,fitted,it,dobj,"he bent down , picked up the door , and fitted it easily back into its frame ."
+710,subj,sat,dudley,nsubj,he strode over to the sofa where dudley sat frozen with fear .
+712,subj,look,yeh,nsubj,"`` yeh look a lot like yet dad , but yeh 've got yet mom 's eyes . ''"
+714,obj,threw,it,dobj,"`` ah , shut up , dursley , yeh great prune , '' said the giant ; he reached over the back of the sofa , jerked the gun out of uncle vernon 's hands , bent it into a knot as easily as if it had been made of rubber , and threw it into a corner of the room ."
+714,subj,made,it,nsubjpass,"`` ah , shut up , dursley , yeh great prune , '' said the giant ; he reached over the back of the sofa , jerked the gun out of uncle vernon 's hands , bent it into a knot as easily as if it had been made of rubber , and threw it into a corner of the room ."
+716,obj,opened,it,dobj,harry opened it with trembling fingers .
+719,obj,said,what,dobj,"he meant to say thank you , but the words got lost on the way to his mouth , and what he said instead was , `` who are you ? ''"
+722,subj,got,ve,nsubj,"`` i 'd not say no ter summat stronger if yeh 've got it , mind . ''"
+724,subj,see,they,nsubj,"he bent down over the fireplace ; they could n't see what he was doing but when he drew back a second later , there was a roaring fire there ."
+726,subj,filled,it,nsubj,it filled the whole damp hut with flickering light and harry felt the warmth wash over him as though he 'd sunk into a hot bath .
+727,obj,filled,hut,dobj,it filled the whole damp hut with flickering light and harry felt the warmth wash over him as though he 'd sunk into a hot bath .
+730,subj,said,nobody,nsubj,"nobody said a thing while the giant was working , but as he slid the first six fat , juicy , slightly burnt sausages from the poker , dudley fidgeted a little ."
+731,subj,said,vernon,nsubj,"uncle vernon said sharply , `` do n't touch anything he gives you , dudley . ''"
+731,subj,looked,hagrid,nsubj,hagrid looked shocked .
+732,obj,touch,anything,dobj,"uncle vernon said sharply , `` do n't touch anything he gives you , dudley . ''"
+735,subj,seemed,nobody,nsubj,"finally , as nobody seemed about to explain anything , he said , `` i 'm sorry , but i still do n't really know who you are . ''"
+738,subj,shrank,who,nsubj,"barked hagrid , turning to stare at the dursleys , who shrank back into the shadows ."
+740,subj,learned,parents,nsubj,did yeh never wonder where yet parents learned it all ? ''
+741,obj,learned,it,dobj,did yeh never wonder where yet parents learned it all ? ''
+743,obj,fill,hut,dobj,in his anger he seemed to fill the whole hut .
+754,obj,left,him,dobj,never told him what was in the letter dumbledore left fer him ?
+755,subj,quailed,man,nsubj,"a braver man than vernon dursley would have quailed under the furious look hagrid now gave him ; when hagrid spoke , his every syllable trembled with rage ."
+757,obj,leave,it,dobj,"i saw dumbledore leave it , dursley !"
+764,subj,heard,sea,nsubjpass,only the sea and the whistling wind could be heard .
+766,subj,said,hagrid,nsubj,"`` a wizard , o ' course , '' said hagrid , sitting back down on the sofa , which groaned and sank even lower , `` an ' a thumpin ' good'un , i 'd say , once yeh 've been trained up a bit ."
+766,subj,groaned,which,nsubj,"`` a wizard , o ' course , '' said hagrid , sitting back down on the sofa , which groaned and sank even lower , `` an ' a thumpin ' good'un , i 'd say , once yeh 've been trained up a bit ."
+774,obj,inform,you,dobj,we are pleased to inform you that you have been accepted at hogwarts school of witchcraft and wizardry .
+776,subj,await,we,nsubj,we await your owl by no later than july 31 .
+781,obj,gave,it,dobj,"hagrid rolled up the note , gave it to the owl , which clamped it in its beak , went to the door , and threw the owl out into the storm ."
+782,obj,closed,it,dobj,harry realized his mouth was open and closed it quickly .
+783,obj,got,'em,dobj,"got 'em , too -- some were afraid , some just wanted a bit o ' his power , 'cause he was gettin ' himself power , all right ."
+783,obj,kill,you,dobj,"an ' then -- an ' this is the real myst'ry of the thing -- he tried to kill you , too ."
+783,obj,remembered,it,dobj,"as hagrid 's story came to a close , he saw again the blinding flash of green light , more clearly than he had ever remembered it before -- and he remembered something else , for the first time in his life : a high , cold , cruel laugh ."
+783,obj,hit,him,dobj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+783,obj,tell,you,dobj,"`` delighted , mr. potter , just ca n't tell you , diggle 's the name , dedalus diggle . ''"
+783,obj,pulled,him,dobj,"they went rattling over an underground ravine , and harry leaned over the side to try to see what was down at the dark bottom , but hagrid groaned and pulled him back by the scruff of his neck ."
+783,obj,stood,harry,dobj,"madam malkin stood harry on a stool next to him ) slipped a long robe over his head , and began to pin it to the right length ."
+783,subj,suggested,harry,nsubj,harry suggested .
+783,subj,know,you,nsubj,`` you-know-who killed 'em .
+783,subj,got,you,nsubj,never wondered how you got that mark on yer forehead ?
+783,subj,famous,yeh,nsubj,makes yeh even more famous .
+783,subj,chuckled,hagrid,nsubj,"to his surprise , hagrid chuckled ."
+783,subj,looked,harry,nsubj,harry looked into the fire .
+783,subj,cast,he,nsubj,he cast a sideways look at harry under his bushy eyebrows .
+783,subj,took,he,nsubj,he took off his thick black coat and threw it to harry .
+783,subj,tell,he,nsubj,"although he could tell it was daylight , he kept his eyes shut tight ."
+783,subj,said,harry,nsubj,said harry loudly .
+783,subj,yawned,hagrid,nsubj,"hagrid yawned loudly , sat up , and stretched ."
+783,subj,looks,giving,csubj,"`` seems a shame ter row , though , '' said hagrid , giving harry another of his sideways looks ."
+783,subj,understand,who,nsubj,"hagrid , who did n't understand `` muggle money , '' as he called it , gave the bills to harry so he could buy their tickets ."
+783,subj,know,harry,nsubj,harry did n't know what to say .
+783,subj,shook,harry,nsubj,harry shook hands again and again -- doris crockford kept coming back for more .
+783,subj,looked,harry,nsubj,harry looked quickly over his shoulder and saw the archway shrink instantly back into solid wall .
+783,subj,turned,he,nsubj,"he turned his head in every direction as they walked up the street , trying to look at everything at once : the shops , the things outside them , the people doing their shopping ."
+783,subj,bowed,he,nsubj,he bowed as they walked inside .
+783,subj,watched,harry,nsubj,harry watched the goblin on their right weighing a pile of rubies as big as glowing coals .
+783,subj,followed,he,nsubj,"once hagrid had crammed all the dog biscuits back inside his pockets , he and harry followed griphook toward one of the doors leading off the hall ."
+783,subj,tried,harry,nsubj,"harry tried to remember , left , right , right , left , middle fork , right , left , but it was impossible ."
+783,subj,kept,he,nsubj,"harry 's eyes stung as the cold air rushed past them , but he kept them wide open ."
+783,subj,thought,he,nsubj,"once , he thought he saw a burst of fire at the end of a passage and twisted around to see if it was a dragon , but too late - - they plunged even deeper , passing an underground lake where huge stalactites and stalagmites grew from the ceiling and floor ."
+783,subj,look,he,nsubj,"he did look very green , and when the cart stopped at last beside a small door in the passage wall , hagrid got out and had to lean against the wall to stop his knees from trembling ."
+783,subj,leaned,he,nsubj,"something really extraordinary had to be inside this top security vault , harry was sure , and he leaned forward eagerly , expecting to see fabulous jewels at the very least -- but at first he thought it was empty ."
+783,subj,noticed,he,nsubj,then he noticed a grubby little package wrapped up in brown paper lying on the floor .
+783,subj,look,he,nsubj,"he did still look a bit sick , so harry entered madam malkin 's shop alone , feeling nervous ."
+783,subj,stood,malkin,nsubj,"madam malkin stood harry on a stool next to him ) slipped a long robe over his head , and began to pin it to the right length ."
+783,subj,liking,he,nsubj,he was liking the boy less and less every second .
+783,subj,feel,he,nsubj,he did n't feel much like going into the matter with this boy .
+783,subj,cheered,harry,nsubj,harry cheered up a bit when he found a bottle of ink that changed color as you wrote .
+783,subj,found,he,nsubj,harry cheered up a bit when he found a bottle of ink that changed color as you wrote .
+784,subj,said,hagrid,nsubj,"`` a muggle , '' said hagrid , `` it 's what we call nonmagic folk like thern ."
+792,obj,saw,her,dobj,i was the only one who saw her for what she was -- a freak !
+792,subj,got,she,nsubj,"oh , she got a letter just like that and disappeared off to that-that school-and came home every vacation with her pockets full of frog spawn , turning teacups into rats ."
+792,subj,stopped,she,nsubj,she stopped to draw a deep breath and then went ranting on .
+795,obj,disappeared,school,dobj,"oh , she got a letter just like that and disappeared off to that-that school-and came home every vacation with her pockets full of frog spawn , turning teacups into rats ."
+797,subj,saw,who,nsubj,i was the only one who saw her for what she was -- a freak !
+803,obj,having,witch,dobj,"but for my mother and father , oh no , it was lily this and lily that , they were proud of having a witch in the family ! ''"
+804,subj,seemed,it,nsubj,it seemed she had been wanting to say all this for years .
+813,subj,went,who,nsubj,"see , there was this wizard who went ... bad ."
+813,subj,started,this,nsubj,"anyway , this -- this wizard , about twenty years ago now , started lookin ' fer followers ."
+813,subj,started,wizard,nsubj,"anyway , this -- this wizard , about twenty years ago now , started lookin ' fer followers ."
+813,subj,born,he,nsubjpass,his name 's been down ever since he was born .
+813,subj,know,he,nsubj,seven years there and he wo n't know himself .
+821,subj,go,you,nsubj,as bad as you could go .
+826,subj,ter,who,nsubj,"did n't know who ter trust , did n't dare get friendly with strange wizards or witches ... terrible things happened ."
+827,subj,killed,he,nsubj,"'course , some stood up to him -- an ' he killed 'em ."
+833,subj,turned,they,nsubjpass,"he 'd spent his life being clouted by dudley , and bullied by aunt petunia and uncle vernon ; if he was really a wizard , why had n't they been turned into warty toads every time they 'd tried to lock him in his cupboard ?"
+834,subj,knows,anyone,nsubj,"all anyone knows is , he turned up in the village where you was all living , on halloween ten years ago ."
+836,subj,living,you,nsubj,"all anyone knows is , he turned up in the village where you was all living , on halloween ten years ago ."
+838,obj,knew,mum,dobj,"`` but it 's that sad -- knew yer mum an ' dad , an ' nicer people yeh could n't find -- anyway ... ''"
+842,obj,get,what,dobj,"that 's what yeh get when a powerful , evil curse touches yeh -- took care of yer mum an ' dad an ' yer house , even -- but it did n't work on you , an ' that 's why yer famous , harry ."
+844,subj,work,it,nsubj,"that 's what yeh get when a powerful , evil curse touches yeh -- took care of yer mum an ' dad an ' yer house , even -- but it did n't work on you , an ' that 's why yer famous , harry ."
+845,subj,lived,one,nsubj,"no one ever lived after he decided ter kill 'em , no one except you , an ' he 'd killed some o ' the best witches an ' wizards of the age -- the mckinnons , the bones , the prewetts -- an ' you was only a baby , an ' you lived . ''"
+847,subj,watching,hagrid,nsubj,hagrid was watching him sadly .
+847,subj,jumped,harry,nsubj,harry jumped ; he had almost forgotten that the dursleys were there .
+847,subj,forgotten,he,nsubj,harry jumped ; he had almost forgotten that the dursleys were there .
+849,obj,whirled,it,dobj,"hagrid seized his umbrella and whirled it over his head , `` never , '' he thundered , `` - insult- albus- dumbledore- in- front- of- me ! ''"
+849,obj,told,him,dobj,"if harry had n't known that the dursleys had no sense of humor , he might have thought so ; yet somehow , even though everything hagrid had told him so far was unbelievable , harry could n't help trusting him ."
+849,obj,trusting,him,dobj,"if harry had n't known that the dursleys had no sense of humor , he might have thought so ; yet somehow , even though everything hagrid had told him so far was unbelievable , harry could n't help trusting him ."
+849,obj,steered,him,dobj,"before he could mention this , hagrid had steered him inside ."
+849,obj,remembers,me,dobj,he remembers me ! ''
+849,subj,set,he,nsubj,had n't he set a boa constrictor on him ?
+849,subj,thought,harry,nsubj,"and there 's aunt petunia knocking on the door , harry thought , his heart sinking ."
+849,subj,open,he,nsubj,but he still did n't open his eyes .
+849,subj,sat,he,nsubj,he sat up and hagrid 's heavy coat fell off him .
+849,subj,scrambled,harry,nsubj,"harry scrambled to his feet , so happy he felt as though a large balloon was swelling inside him ."
+849,subj,felt,he,nsubj,"harry scrambled to his feet , so happy he felt as though a large balloon was swelling inside him ."
+849,subj,went,he,nsubj,he went straight to the window and jerked it open .
+849,subj,tried,harry,nsubj,"harry tried to wave the owl out of the way , but it snapped its beak fiercely at him and carried on savaging the coat ."
+849,subj,snapped,it,nsubj,"harry tried to wave the owl out of the way , but it snapped its beak fiercely at him and carried on savaging the coat ."
+849,subj,pulled,harry,nsubj,"hagrid 's coat seemed to be made of nothing but pockets -- bunches of keys , slug pellets , balls of string , peppermint humbugs , teabags ... finally , harry pulled out a handful of strange-looking coins ."
+849,subj,counted,harry,nsubj,"harry counted out five little bronze coins , and the owl held out his leg so harry could put the money into a small leather pouch tied to it ."
+849,subj,put,harry,nsubj,"harry counted out five little bronze coins , and the owl held out his leg so harry could put the money into a small leather pouch tied to it ."
+849,subj,turning,harry,nsubj,harry was turning over the wizard coins and looking at them .
+849,subj,feel,him,nsubj,he had just thought of something that made him feel as though the happy balloon inside him had got a puncture .
+849,subj,pulling,who,nsubj,"said hagrid , who was pulling on his huge boots ."
+849,subj,holding,he,nsubj,harry dropped the bit of sausage he was holding .
+849,subj,asked,harry,nsubj,harry asked .
+849,subj,sat,harry,nsubj,"harry sat and thought about this while hagrid read his newspaper , the daily prophet ."
+849,subj,asked,harry,nsubj,"harry asked , before he could stop himself ."
+849,subj,took,harry,nsubj,harry took the parchment envelope out of his pocket .
+849,subj,noticed,he,nsubj,"harry unfolded a second piece of paper he had n't noticed the night before , and read :"
+849,subj,wondered,harry,nsubj,harry wondered aloud .
+849,subj,going,he,nsubj,"although hagrid seemed to know where he was going , he was obviously not used to getting there in an ordinary way ."
+849,subj,stuck,he,nsubjpass,"he got stuck in the ticket barrier on the underground , and complained loudly that the seats were too small and the trains too slow ."
+849,subj,parted,he,nsubj,hagrid was so huge that he parted the crowd easily ; all harry had to do was keep close behind him .
+849,subj,known,harry,nsubj,"if harry had n't known that the dursleys had no sense of humor , he might have thought so ; yet somehow , even though everything hagrid had told him so far was unbelievable , harry could n't help trusting him ."
+849,subj,thought,he,nsubj,"if harry had n't known that the dursleys had no sense of humor , he might have thought so ; yet somehow , even though everything hagrid had told him so far was unbelievable , harry could n't help trusting him ."
+849,subj,help,harry,nsubj,"if harry had n't known that the dursleys had no sense of humor , he might have thought so ; yet somehow , even though everything hagrid had told him so far was unbelievable , harry could n't help trusting him ."
+849,subj,see,he,nsubj,"in fact , harry had the most peculiar feeling that only he and hagrid could see it ."
+849,subj,mention,he,nsubj,"before he could mention this , hagrid had steered him inside ."
+849,subj,hurried,he,nsubj,"he hurried out from behind the bar , rushed toward harry and seized his hand , tears in his eyes ."
+849,subj,found,harry,nsubj,"then there was a great scraping of chairs and the next moment , harry found himself shaking hands with everyone in the leaky cauldron ."
+849,subj,shaking,himself,nsubj,"then there was a great scraping of chairs and the next moment , harry found himself shaking hands with everyone in the leaky cauldron ."
+849,subj,looked,he,nsubj,he looked terrified at the very thought .
+849,subj,heard,himself,nsubj,"at last , hagrid managed to make himself heard over the babble ."
+849,subj,touched,he,nsubj,"the brick he had touched quivered -- it wriggled -- in the middle , a small hole appeared -- it grew wider and wider -- a second later they were facing an archway large enough even for hagrid , an archway onto a cobbled street that twisted and turned out of sight ."
+849,subj,noticed,harry,nsubj,"he had a swarthy , clever face , a pointed beard and , harry noticed , very long fingers and feet ."
+857,subj,said,hagrid,nsubj,"`` that 's better , '' said hagrid , breathing heavily and sitting back down on the sofa , which this time sagged right down to the floor ."
+859,obj,ask,hundreds,dobj,"harry , meanwhile , still had questions to ask , hundreds of them ."
+860,obj,believe,it,dobj,"some say he 's still out there , bidin ' his time , like , but i don ' believe it ."
+861,subj,came,people,nsubj,people who was on his side came back ter ours .
+863,subj,done,they,nsubj,don~ reckon they could 've done if he was comin ' back .
+870,obj,defeated,sorcerer,dobj,"if he 'd once defeated the greatest sorcerer in the world , how come dudley had always been able to kick him around like a football ?"
+875,subj,furious,aunt,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+879,subj,grow,it,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+880,subj,got,he,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+880,subj,doing,he,nsubj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+881,obj,doing,it,dobj,"now he came to think about it ... every odd thing that had ever made his aunt and uncle furious with him had happened when he , harry , had been upset or angry ... chased by dudley 's gang , he had somehow found himself out of their reach ... dreading going to school with that ridiculous haircut , he 'd managed to make it grow back ... and the very last time dudley had hit him , had n't he got his revenge , without even realizing he was doing it ?"
+885,obj,told,you,dobj,`` have n't i told you he 's not going ? ''
+885,obj,know,himself,dobj,seven years there and he wo n't know himself .
+885,subj,flew,he,nsubj,then he flew off through the open window .
+888,obj,ter,school,dobj,he 's off ter the finest school of witchcraft and wizardry in the world .
+895,obj,ter,anyone,dobj,"`` be grateful if yeh did n't mention that ter anyone at hogwarts , '' he said ."
+896,subj,snapped,they,nsubj,they snapped me wand in half an ' everything .
+899,obj,kept,them,dobj,"harry 's eyes stung as the cold air rushed past them , but he kept them wide open ."
+899,obj,eat,them,dobj,he bought harry a hamburger and they sat down on plastic seats to eat them .
+899,subj,climbed,they,nsubj,they climbed in -- hagrid with some difficulty -- and were off .
+899,subj,hurtled,they,nsubj,at first they just hurtled through a maze of twisting passages .
+899,subj,keep,we,nsubj,"right , that should be enough fer a couple o ' terms , we 'll keep the rest safe for yeh . ''"
+899,subj,going,they,nsubj,they were going even deeper now and gathering speed .
+899,subj,hurtled,they,nsubj,the air became colder and colder as they hurtled round tight corners .
+899,subj,went,they,nsubj,"they went rattling over an underground ravine , and harry leaned over the side to try to see what was down at the dark bottom , but hagrid groaned and pulled him back by the scruff of his neck ."
+899,subj,left,they,nsubj,"when they had left the shop , he said , `` hagrid , what 's quidditch ? ''"
+899,subj,bought,they,nsubj,they bought harry 's school books in a shop called flourish and blotts where the shelves were stacked to the ceiling with books as large as paving stones bound in leather ; books the size of postage stamps in covers of silk ; books full of peculiar symbols and a few books with nothing in them at all .
+899,subj,visited,they,nsubj,"then they visited the apothecary , which was fascinating enough to make up for its horrible smell , a mixture of bad eggs and rotted cabbages ."
+899,subj,left,they,nsubj,"twenty minutes later , they left eeylops owl emporium , which had been dark and full of rustling and flickering , jewel-bright eyes ."
+899,subj,stepped,they,nsubj,a tinkling bell rang somewhere in the depths of the shop as they stepped inside .
+899,subj,use,we,nsubj,"we use unicorn hairs , phoenix tail feathers , and the heartstrings of dragons ."
+899,subj,find,we,nsubj,"not to worry , we 'll find the perfect match here somewhere -- i wonder , now - - yes , why not -- unusual combination -- holly and phoenix feather , eleven inches , nice and supple . ''"
+899,subj,walked,they,nsubj,"harry did n't speak at all as they walked down the road ; he did n't even notice how much people were gawking at them on the underground , laden as they were with all their funny-shaped packages , with the snowy owl asleep in its cage on harry 's lap ."
+899,subj,sat,they,nsubj,he bought harry a hamburger and they sat down on plastic seats to eat them .
+899,subj,speak,they,nsubj,"true , dudley was now so scared of harry he would n't stay in the same room , while aunt petunia and uncle vernon did n't shut harry in his cupboard , force him to do anything , or shout at him -- in fact , they did n't speak to him at all ."
+899,subj,acted,they,nsubj,"half terrified , half furious , they acted as though any chair with harry in it were empty ."
+899,subj,going,we,nsubj,"we 're going up to london tomorrow anyway , or i would n't bother . ''"
+899,subj,reached,they,nsubj,they reached king 's cross at half past ten .
+901,obj,threw,it,dobj,he took off his thick black coat and threw it to harry .
+907,subj,wake,who,nsubj,"the owl swooped in and dropped the newspaper on top of hagrid , who did n't wake up ."
+907,subj,beaming,hagrid,nsubj,hagrid was beaming .
+911,obj,jerked,it,dobj,he went straight to the window and jerked it open .
+914,obj,pulled,handful,dobj,"hagrid 's coat seemed to be made of nothing but pockets -- bunches of keys , slug pellets , balls of string , peppermint humbugs , teabags ... finally , harry pulled out a handful of strange-looking coins ."
+918,subj,buy,an,nsubj,"`` best be off , harry , lots ter do today , got ta get up ter london an ' buy all yer stuff fer school . ''"
+919,obj,drew,himself,dobj,hagrid drew himself up proudly .
+919,subj,dropped,harry,nsubj,harry dropped the bit of sausage he was holding .
+919,subj,trust,he,nsubj,"fetchin ' you gettin ' things from gringotts -- knows he can trust me , see ."
+919,subj,followed,harry,nsubj,harry followed hagrid out onto the rock .
+919,subj,asked,harry,nsubj,"harry asked , looking around for another boat ."
+919,subj,pelts,he,nsubj,"so he pelts dumbledore with owls every morning , askin ' fer advice . ''"
+919,subj,kept,he,nsubj,"not only was hagrid twice as tall as anyone else , he kept pointing at perfectly ordinary things like parking meters and saying loudly , `` see that , harry ?"
+919,subj,noticed,harry,nsubj,"if hagrid had n't pointed it out , harry would n't have noticed it was there ."
+919,subj,took,he,nsubj,studyin ' outta books but then he took a year off ter get some firsthand experience ... .
+924,obj,stop,us,dobj,"nah , first stop fer us is gringotts ."
+924,obj,led,them,dobj,"doris crockford shook harry 's hand one last time , and hagrid led them through the bar and out into a small , walled courtyard , where there was nothing but a trash can and a few weeds ."
+924,obj,bowed,them,dobj,a pair of goblins bowed them through the silver doors and they were in a vast marble hall .
+924,subj,settled,they,nsubj,"they settled down in the boat , harry still staring at hagrid , trying to imagine him flying ."
+924,subj,sped,they,nsubj,"hagrid pulled out the pink umbrella again , tapped it twice on the side of the boat , and they sped off toward land ."
+924,subj,clambered,they,nsubj,"hagrid folded up his newspaper , and they clambered up the stone steps onto the street ."
+924,subj,walked,they,nsubj,passersby stared a lot at hagrid as they walked through the little town to the station .
+924,subj,reached,they,nsubj,they had reached the station .
+924,subj,walked,they,nsubj,the low buzz of chatter stopped when they walked in .
+924,subj,stepped,they,nsubj,they stepped through the archway .
+924,subj,walked,they,nsubj,"he turned his head in every direction as they walked up the street , trying to look at everything at once : the shops , the things outside them , the people doing their shopping ."
+924,subj,reached,they,nsubj,they had reached a snowy white building that towered over the other little shops .
+924,subj,walked,they,nsubj,he bowed as they walked inside .
+924,subj,facing,they,nsubj,"now they were facing a second pair of doors , silver this time , with words engraved upon them :"
+932,subj,gleamed,sea,nsubj,the sky was quite clear now and the sea gleamed in the sunlight .
+933,subj,hired,vernon,nsubj,"the boat uncle vernon had hired was still there , with a lot of water in the bottom after the storm ."
+936,subj,staring,harry,nsubj,"they settled down in the boat , harry still staring at hagrid , trying to imagine him flying ."
+936,subj,said,she,nsubj,"she said , when harry started to speak ."
+938,obj,tapped,it,dobj,"hagrid pulled out the pink umbrella again , tapped it twice on the side of the boat , and they sped off toward land ."
+945,obj,find,them,dobj,fantastic beasts and where to find them by newt scamander
+945,subj,liked,people,nsubj,"harry had learned from uncle vernon that people liked to be left alone while they did this , but it was very difficult , he 'd never had so many questions in his life ."
+955,obj,clambered,steps,dobj,"hagrid folded up his newspaper , and they clambered up the stone steps onto the street ."
+958,subj,blame,harry,nsubj,harry could n't blame them .
+959,obj,blame,them,dobj,harry could n't blame them .
+963,obj,reached,station,dobj,they had reached the station .
+967,subj,stared,people,nsubj,people stared more than ever on the train .
+968,obj,took,seats,dobj,hagrid took up two seats and sat knitting what looked like a canary-yellow circus tent .
+968,subj,took,hagrid,nsubj,hagrid took up two seats and sat knitting what looked like a canary-yellow circus tent .
+969,subj,looked,what,nsubj,hagrid took up two seats and sat knitting what looked like a canary-yellow circus tent .
+971,subj,require,students,nsubj,first-year students will require :
+979,subj,bring,students,nsubj,students may also bring an owl or a cat or a toad
+980,subj,reminded,parents,nsubjpass,parents are reminded that first years are not allowed their own broomsticks
+981,subj,passed,they,nsubj,"they passed book shops and music stores , hamburger restaurants and cinemas , but nowhere that looked as if it could sell you a magic wand ."
+985,obj,climbed,escalator,dobj,"`` i do n't know how the muggles manage without magic , '' he said as they climbed a broken-down escalator that led up to a bustling road lined with shops ."
+985,subj,led,that,nsubj,"`` i do n't know how the muggles manage without magic , '' he said as they climbed a broken-down escalator that led up to a bustling road lined with shops ."
+986,obj,passed,shops,dobj,"they passed book shops and music stores , hamburger restaurants and cinemas , but nowhere that looked as if it could sell you a magic wand ."
+987,subj,sell,it,nsubj,"they passed book shops and music stores , hamburger restaurants and cinemas , but nowhere that looked as if it could sell you a magic wand ."
+991,subj,cooked,dursleys,nsubj,might this not all be some huge joke that the dursleys had cooked up ?
+997,obj,pointed,it,dobj,"if hagrid had n't pointed it out , harry would n't have noticed it was there ."
+999,obj,cost,them,dobj,how often had they complained how much harry cost them to keep ?
+999,subj,glance,people,nsubj,the people hurrying by did n't glance at it .
+999,subj,see,they,nsubj,their eyes slid from the big book shop on one side to the record shop on the other as if they could n't see the leaky cauldron at all .
+999,subj,waved,they,nsubj,"everyone seemed to know hagrid ; they waved and smiled at him , and the bartender reached for a glass , saying , `` the usual , hagrid ? ''"
+999,subj,complained,they,nsubj,how often had they complained how much harry cost them to keep ?

@@ -42,16 +42,17 @@ def main():
     data = get_data(trainf)[1:] #strip headers
     output = []
     for entry in data:
-        embeds = get_embeddings_rev(entry[0], entry[1], layers=None)
-        print("word {} in sentence {}, embedding shape of {}".format(entry[1],entry[0],embeds.shape))
-        embed_list = embeds.tolist()
-        new_entry = [entry[0],entry[1]]
-        for num in embed_list:
-            new_entry.append(num)
-        print("length of new entry: {}, should be 768 + 2 = 770 columns. ".format(len(new_entry)))
-        output.append(new_entry)
+        if len(entry) > 5:
+            embeds = get_embeddings_rev(entry[5], entry[2], layers=None) # Sentence, word
+        #print("word {} in sentence {}, embedding shape of {}".format(entry[1],entry[0],embeds.shape))
+            embed_list = embeds.tolist()
+            new_entry = [entry[0],entry[1],entry[4]]
+            for num in embed_list:
+                new_entry.append(num)
+        #print("length of new entry: {}, should be 768 + 2 = 770 columns. ".format(len(new_entry)))
+            output.append(new_entry)
     #with open('{file_path}.csv'.format(file_path=os.path.join(save_path, trainf+"embeds.csv"), 'w+',new_line="") as csv_file:
-    with open(trainf+"embeds.csv",'w') as csvf:
+    with open(trainf+"_embeds.csv",'w') as csvf:
         csvwriter = csv.writer(csvf)
         csvwriter.writerows(output)
 
@@ -61,12 +62,15 @@ def main():
 
 def get_data(corpus_name):
     '''process csv file to a list of sentences for embedding retrieval'''
-    processed = []
+    with open(corpus_name, 'r') as f:
+        outfile = list(csv.reader(f))
+    return outfile
+    '''processed = []
     with open(corpus_name,'r') as f:
         csv_reader = csv.reader(f)
         for row in csv_reader:
             processed.append([row[0],row[1]])
-        return processed
+        return processed'''
 
 def get_word_idx(sent: str, word: str):
      return sent.split(" ").index(word)
@@ -82,7 +86,7 @@ def get_hidden_states(encoded, token_ids_word, model, layers):
      # Get all hidden states
      states = output.hidden_states
      last_hidden_states = states[-1]
-     print("last hidden states shape", last_hidden_states.shape)
+     #print("last hidden states shape", last_hidden_states.shape)
      #print("last hidden states value: ", last_hidden_states)
      # Stack and sum all requested layers
      output = torch.stack([states[i] for i in layers]).sum(0).squeeze()
